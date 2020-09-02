@@ -1,0 +1,6 @@
+$icon--cat: unicode(ea02);
+$icon--dog: unicode(ea03);
+$icon--dolphin: unicode(ea04);
+$icon--hamster: unicode(ea05);
+$icon--fish: unicode(ea06);
+$icon--bunny: unicode(ea07);
