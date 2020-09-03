@@ -143,12 +143,7 @@
             "animal",
             "animal-games",
             "animal_dress_up_games",
-            "animal_games"
-        ]
-    },
-    "animals": {
-        "iconClass": "",
-        "collections": [
+            "animal_games",
             "animals"
         ]
     },
@@ -250,13 +245,6 @@
             "avatars"
         ]
     },
-    "avie": {
-        "iconClass": "",
-        "collections": [
-            "avie-games",
-            "avie-pocket"
-        ]
-    },
     "avoiding": {
         "iconClass": "",
         "collections": [
@@ -340,13 +328,6 @@
         "iconClass": "",
         "collections": [
             "beach-games"
-        ]
-    },
-    "beauty": {
-        "iconClass": "",
-        "collections": [
-            "beauty",
-            "beauty-games"
         ]
     },
     "bedroom": {
@@ -799,7 +780,9 @@
     "cooking": {
         "iconClass": "",
         "collections": [
-            "cooking"
+            "cooking",
+            "saras-cooking-class-games",
+            "saras_cooking_class_games"
         ]
     },
     "cool": {
@@ -1127,12 +1110,6 @@
             "educational"
         ]
     },
-    "egirlgames": {
-        "iconClass": "",
-        "collections": [
-            "egirlgames"
-        ]
-    },
     "elevator": {
         "iconClass": "",
         "collections": [
@@ -1453,13 +1430,10 @@
         "iconClass": "",
         "collections": [
             "girls",
-            "girls_games"
-        ]
-    },
-    "girl": {
-        "iconClass": "",
-        "collections": [
-            "girl_makeover_games"
+            "girls_games",
+            "avie-games",
+            "avie-pocket",
+            "egirlgames"
         ]
     },
     "goal": {
@@ -1492,12 +1466,7 @@
         "iconClass": "",
         "collections": [
             "hair",
-            "hair-games"
-        ]
-    },
-    "hairdresser": {
-        "iconClass": "",
-        "collections": [
+            "hair-games",
             "hairdresser"
         ]
     },
@@ -1828,13 +1797,16 @@
         "collections": [
             "make-over",
             "make-up",
-            "make_up"
+            "make_up",
+            "beauty",
+            "beauty-games"
         ]
     },
     "makeover": {
         "iconClass": "",
         "collections": [
-            "makeover"
+            "makeover",
+            "girl_makeover_games"
         ]
     },
     "management": {
@@ -1904,12 +1876,6 @@
         "collections": [
             "mining",
             "mining-games"
-        ]
-    },
-    "mmo": {
-        "iconClass": "",
-        "collections": [
-            "mmo"
         ]
     },
     "mobile": {
@@ -1997,7 +1963,8 @@
             "multiplayer-games",
             "multiplayer-simulation",
             "multiplayer-strategy",
-            "multiplayer-war"
+            "multiplayer-war",
+            "mmo"
         ]
     },
     "music": {
@@ -2468,13 +2435,6 @@
         "iconClass": "",
         "collections": [
             "santa-games"
-        ]
-    },
-    "saras": {
-        "iconClass": "",
-        "collections": [
-            "saras-cooking-class-games",
-            "saras_cooking_class_games"
         ]
     },
     "scary": {

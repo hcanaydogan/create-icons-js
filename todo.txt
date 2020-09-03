@@ -1,0 +1,11 @@
+------ ------
+.io games
+qPlay games
+2048
+coolmath
+------ ------
+
+-- larger icon for - crash category
+
+
+------ ------
