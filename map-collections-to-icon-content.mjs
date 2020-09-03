@@ -15,8 +15,14 @@ let regGetUnicode = new RegExp("unicode\\((.*)\\)")
 iconContentsRL.on("line", line => {
     let collection = regGetCollectionName.exec(line)[1];
     let unicode = regGetUnicode.exec(line)[1];
+    let classes = grouped_collections[collection].collections.reduce((acc, v) => {
+        if(acc) acc += ", ";
+        acc +=  `"${v}"`;
+        return acc;
+    }, "");
+    //console.log(classes)
     string += `
-            ${collection}: (content: unicode(${unicode}), classes:(${grouped_collections[collection].collections.join(", ")}))`;
+            ${collection}: (content: unicode(${unicode}), classes:(${classes})),`;
 });
 iconContentsRL.on("close", () => {
     fs.writeFile("collections-scss-list.txt", string, function (err) {
