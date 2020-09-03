@@ -1,10 +1,10 @@
 import fs from "fs";
 import readline from "readline";
 
-let grouped_collections = JSON.parse(fs.readFileSync(process.env.HOME + "/Desktop/grouped-collections.json"))
+let grouped_collections = JSON.parse(fs.readFileSync("grouped-collections_.json"))
 //console.log(Object.keys(grouped_collections).some(c => {console.log(c); return c == "cat"}));
 const iconContentsRL = readline.createInterface({
-    input: fs.createReadStream(process.env.HOME + "/Desktop/icon-contents.txt"),
+    input: fs.createReadStream("icon-contents.txt"),
     crlfDelay: Infinity
 });
 

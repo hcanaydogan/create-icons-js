@@ -2,7 +2,7 @@ import fs from "fs";
 import readline from "readline";
 
 const rl = readline.createInterface({
-    input: fs.createReadStream(process.env.HOME + "/Downloads/collections.txt"),
+    input: fs.createReadStream("collections.txt"),
     crlfDelay: Infinity
 });
 let splitBy = ["-", "_"];
