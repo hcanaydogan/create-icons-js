@@ -9,4 +9,6 @@ coolmath
 
 -- ADD icons from test.mousebreaker.com
 
+-- hide icons on mobile
+
 ------ ------
