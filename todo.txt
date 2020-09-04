@@ -7,8 +7,14 @@ coolmath
 
 -- larger icon for - crash category
 
+-- change social icon 
+
 -- ADD icons from test.mousebreaker.com
 
--- hide icons on mobile
+--unique icon for doll house
+
+-- hide icons on mobile *
+
+-- board & card, art & creativity 
 
 ------ ------

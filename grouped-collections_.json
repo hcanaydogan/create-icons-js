@@ -172,7 +172,8 @@
     "archery": {
         "iconClass": "",
         "collections": [
-            "archery"
+            "archery",
+            "arrow"
         ]
     },
     "arena": {
@@ -198,12 +199,6 @@
         "collections": [
             "army",
             "army-games"
-        ]
-    },
-    "arrow": {
-        "iconClass": "",
-        "collections": [
-            "arrow"
         ]
     },
     "art": {
@@ -263,8 +258,6 @@
         "collections": [
             "baby",
             "baby-games",
-            "baby-hazel-games",
-            "baby_hazel_games",
             "babysitting"
         ]
     },
@@ -407,7 +400,12 @@
     "board": {
         "iconClass": "",
         "collections": [
-            "board",
+            "board"
+        ]
+    },
+    "board_card": {
+        "iconClass": "",
+        "collections": [
             "board--card",
             "board__card"
         ]
@@ -1433,7 +1431,9 @@
             "girls_games",
             "avie-games",
             "avie-pocket",
-            "egirlgames"
+            "egirlgames",
+            "baby-hazel-games",
+            "baby_hazel_games"
         ]
     },
     "goal": {
@@ -1792,19 +1792,14 @@
             "mahjongg"
         ]
     },
-    "make": {
+    "makeover": {
         "iconClass": "",
         "collections": [
             "make-over",
             "make-up",
             "make_up",
             "beauty",
-            "beauty-games"
-        ]
-    },
-    "makeover": {
-        "iconClass": "",
-        "collections": [
+            "beauty-games",
             "makeover",
             "girl_makeover_games"
         ]
