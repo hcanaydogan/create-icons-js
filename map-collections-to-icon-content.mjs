@@ -15,7 +15,10 @@ let regGetUnicode = new RegExp("unicode\\((.*)\\)")
 iconContentsRL.on("line", line => {
     let collection = regGetCollectionName.exec(line)[1];
     let unicode = regGetUnicode.exec(line)[1];
-    if(!grouped_collections[collection]) console.log(collection)
+    if(!grouped_collections[collection]) {
+        console.log(collection);
+        return;
+    }
     let classes = grouped_collections[collection].collections.reduce((acc, v) => {
         if(acc) acc += ", ";
         acc +=  `"${v}"`;

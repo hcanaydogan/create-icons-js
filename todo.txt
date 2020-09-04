@@ -5,13 +5,13 @@ qPlay games
 coolmath
 ------ ------
 
--- larger icon for - crash category
+-- larger icon for - crash category *
 
 -- change social icon 
 
--- ADD icons from test.mousebreaker.com
+-- ADD icons from test.mousebreaker.com *
 
---unique icon for doll house
+--unique icon for doll house * 
 
 -- hide icons on mobile *
 
