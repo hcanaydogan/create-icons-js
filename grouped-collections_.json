@@ -176,12 +176,6 @@
             "arrow"
         ]
     },
-    "arena": {
-        "iconClass": "",
-        "collections": [
-            "arena-fighting"
-        ]
-    },
     "armor": {
         "iconClass": "",
         "collections": [
@@ -403,7 +397,7 @@
             "board"
         ]
     },
-    "board_card": {
+    "boardcard": {
         "iconClass": "",
         "collections": [
             "board--card",
@@ -730,10 +724,11 @@
             "collecting"
         ]
     },
-    "colored": {
+    "coloredblocks": {
         "iconClass": "",
         "collections": [
-            "colored_blocks"
+            "colored_blocks",
+            "coloured-blocks"
         ]
     },
     "coloring": {
@@ -741,12 +736,6 @@
         "collections": [
             "coloring",
             "coloring-games"
-        ]
-    },
-    "coloured": {
-        "iconClass": "",
-        "collections": [
-            "coloured-blocks"
         ]
     },
     "company": {
@@ -1227,7 +1216,8 @@
     "fighting": {
         "iconClass": "",
         "collections": [
-            "fighting"
+            "fighting",
+            "arena-fighting"
         ]
     },
     "fire": {
