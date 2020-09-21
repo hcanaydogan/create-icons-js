@@ -1,11 +1,11 @@
 {
-    "2": {
+    "2player": {
         "iconClass": "",
         "collections": [
-            "2-player"
+            "2player"
         ]
     },
-    "3": {
+    "3pandas": {
         "iconClass": "",
         "collections": [
             "3-pandas"
@@ -225,13 +225,10 @@
         "iconClass": "",
         "collections": [
             "avatar-games",
-            "avatar_games"
-        ]
-    },
-    "avatars": {
-        "iconClass": "",
-        "collections": [
-            "avatars"
+            "avatar_games",
+            "avatars",
+            "simulation",
+            "multiplayer-simulation"
         ]
     },
     "avoiding": {
@@ -394,7 +391,9 @@
     "board": {
         "iconClass": "",
         "collections": [
-            "board"
+            "board",
+            "strategy",
+            "multiplayer-strategy"
         ]
     },
     "boardcard": {
@@ -578,7 +577,8 @@
         "iconClass": "",
         "collections": [
             "casino-games",
-            "casino_games"
+            "casino_games",
+            "multiplayer-casino"
         ]
     },
     "castle": {
@@ -1091,7 +1091,8 @@
     "easy": {
         "iconClass": "",
         "collections": [
-            "easy-games"
+            "easy-games",
+            "multiplayer-casual"
         ]
     },
     "educational": {
@@ -1184,7 +1185,8 @@
         "collections": [
             "farming",
             "farming_games",
-            "farm-games"
+            "farm-games",
+            "multiplayer-farming"
         ]
     },
     "fart": {
@@ -1945,13 +1947,7 @@
         "iconClass": "",
         "collections": [
             "multiplayer",
-            "multiplayer-casino",
-            "multiplayer-casual",
-            "multiplayer-farming",
             "multiplayer-games",
-            "multiplayer-simulation",
-            "multiplayer-strategy",
-            "multiplayer-war",
             "mmo"
         ]
     },
@@ -2522,12 +2518,6 @@
             "silvergames"
         ]
     },
-    "simulation": {
-        "iconClass": "",
-        "collections": [
-            "simulation"
-        ]
-    },
     "singing": {
         "iconClass": "",
         "collections": [
@@ -2744,12 +2734,6 @@
         "iconClass": "",
         "collections": [
             "story"
-        ]
-    },
-    "strategy": {
-        "iconClass": "",
-        "collections": [
-            "strategy"
         ]
     },
     "strikeforce": {
@@ -3067,7 +3051,8 @@
         "collections": [
             "war",
             "war-games",
-            "war_games"
+            "war_games",
+            "multiplayer-war"
         ]
     },
     "warrior": {

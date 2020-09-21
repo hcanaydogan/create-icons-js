@@ -1,26 +1,36 @@
------- ------
-.io games
-qPlay games
-2048
-coolmath
------- ------
 
--- larger icon for - crash category +
-
--- change social icon +
-
--- ADD icons from test.mousebreaker.com +
-
---unique icon for doll house + 
-
--- hide icons on mobile +
-
--- board & card, art & creativity +
-
--- arena_fighting -> fighting +
-
--- agame, mousebreaker missing icons +
-
------- ------
-
---- menu a click wont open submenus on mobile ***
+anime manga
+care bears
+chicken
+circus
+nail studio
+cupcake
+icecream
+pizza
+kitchen
+decorating
+business
+ambulance
+avatar
+memo
+parking
+quiz
+2d
+air = flying
+battle
+cartoon
+caring
+addicting
+bridge
+horse racing
+motocross
+dart
+cannon
+logic = connect
+casino
+war
+*multiplayer action 3d = multiplayer(casual 3d farming casino mmo simulation strategy war)
+*io
+*2048
+*coolmath
+*armorgames
