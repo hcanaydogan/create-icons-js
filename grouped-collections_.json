@@ -90,12 +90,6 @@
             "aim__shoot"
         ]
     },
-    "air": {
-        "iconClass": "",
-        "collections": [
-            "air-games"
-        ]
-    },
     "air-hockey": {
         "iconClass": "",
         "collections": [
@@ -182,12 +176,12 @@
             "armor"
         ]
     },
-    "armorgames": {
-        "iconClass": "",
-        "collections": [
-            "armorgames"
-        ]
-    },
+    // "armorgames": {
+    //     "iconClass": "",
+    //     "collections": [
+    //         "armorgames"
+    //     ]
+    // },
     "army": {
         "iconClass": "",
         "collections": [
@@ -549,7 +543,7 @@
             "card_solitaire"
         ]
     },
-    "care": {
+    "carebears": {
         "iconClass": "",
         "collections": [
             "care_bears"
@@ -753,7 +747,8 @@
     "connect": {
         "iconClass": "",
         "collections": [
-            "connect"
+            "connect",
+            "logic-games"
         ]
     },
     "construction": {
@@ -776,12 +771,12 @@
             "cool-games"
         ]
     },
-    "coolmath": {
-        "iconClass": "",
-        "collections": [
-            "coolmath-games"
-        ]
-    },
+    // "coolmath": {
+    //     "iconClass": "",
+    //     "collections": [
+    //         "coolmath-games"
+    //     ]
+    // },
     "copa": {
         "iconClass": "",
         "collections": [
@@ -1301,7 +1296,8 @@
         "iconClass": "",
         "collections": [
             "flying",
-            "flying-games"
+            "flying-games",
+            "air-games"
         ]
     },
     "food": {
@@ -1345,12 +1341,12 @@
             "freecell_games"
         ]
     },
-    "friv": {
-        "iconClass": "",
-        "collections": [
-            "friv-games"
-        ]
-    },
+    // "friv": {
+    //     "iconClass": "",
+    //     "collections": [
+    //         "friv-games"
+    //     ]
+    // },
     "frog": {
         "iconClass": "",
         "collections": [
@@ -1392,7 +1388,12 @@
     "games": {
         "iconClass": "",
         "collections": [
-            "games"
+            "games",
+            "io",
+            "io-games",
+            "coolmath-games",
+            "friv-games",
+            "armorgames"
         ]
     },
     "games79832780321780": {
@@ -1589,7 +1590,7 @@
             "hunting-games"
         ]
     },
-    "ice": {
+    "icecream": {
         "iconClass": "",
         "collections": [
             "ice-cream",
@@ -1610,13 +1611,13 @@
             "idle-games"
         ]
     },
-    "io": {
-        "iconClass": "",
-        "collections": [
-            "io",
-            "io-games"
-        ]
-    },
+    // "io": {
+    //     "iconClass": "",
+    //     "collections": [
+    //         "io",
+    //         "io-games"
+    //     ]
+    // },
     "island": {
         "iconClass": "",
         "collections": [
@@ -1741,12 +1742,6 @@
         "iconClass": "",
         "collections": [
             "little-alchemy"
-        ]
-    },
-    "logic": {
-        "iconClass": "",
-        "collections": [
-            "logic-games"
         ]
     },
     "love": {
