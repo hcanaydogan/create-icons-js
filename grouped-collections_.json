@@ -176,12 +176,12 @@
             "armor"
         ]
     },
-    // "armorgames": {
-    //     "iconClass": "",
-    //     "collections": [
-    //         "armorgames"
-    //     ]
-    // },
+    "armorgames": {
+        "iconClass": "",
+        "collections": [
+            "armorgames"
+        ]
+    },
     "army": {
         "iconClass": "",
         "collections": [
@@ -771,12 +771,12 @@
             "cool-games"
         ]
     },
-    // "coolmath": {
-    //     "iconClass": "",
-    //     "collections": [
-    //         "coolmath-games"
-    //     ]
-    // },
+    "coolmath": {
+        "iconClass": "",
+        "collections": [
+            "coolmath-games"
+        ]
+    },
     "copa": {
         "iconClass": "",
         "collections": [
@@ -1341,12 +1341,12 @@
             "freecell_games"
         ]
     },
-    // "friv": {
-    //     "iconClass": "",
-    //     "collections": [
-    //         "friv-games"
-    //     ]
-    // },
+    "friv": {
+        "iconClass": "",
+        "collections": [
+            "friv-games"
+        ]
+    },
     "frog": {
         "iconClass": "",
         "collections": [
@@ -1611,13 +1611,13 @@
             "idle-games"
         ]
     },
-    // "io": {
-    //     "iconClass": "",
-    //     "collections": [
-    //         "io",
-    //         "io-games"
-    //     ]
-    // },
+    "io": {
+        "iconClass": "",
+        "collections": [
+            "io",
+            "io-games"
+        ]
+    },
     "island": {
         "iconClass": "",
         "collections": [
