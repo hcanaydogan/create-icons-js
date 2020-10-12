@@ -564,7 +564,9 @@
     "cartoon": {
         "iconClass": "",
         "collections": [
-            "cartoon-games"
+            "cartoon-games",
+            "kids",
+            "kids-games"
         ]
     },
     "casino": {
@@ -1013,7 +1015,8 @@
             "dolphin",
             "dolphin-games",
             "dolphin-jumping",
-            "dolphin_jumping"
+            "dolphin_jumping",
+            "my-dolphin-show"
         ]
     },
     "dominoes": {
@@ -1369,12 +1372,7 @@
         "iconClass": "",
         "collections": [
             "fun",
-            "fun-games-new"
-        ]
-    },
-    "funny": {
-        "iconClass": "",
-        "collections": [
+            "fun-games-new",
             "funny-games",
             "funny_games"
         ]
@@ -1663,13 +1661,6 @@
             "karting"
         ]
     },
-    "kids": {
-        "iconClass": "",
-        "collections": [
-            "kids",
-            "kids-games"
-        ]
-    },
     "kill": {
         "iconClass": "",
         "collections": [
@@ -1952,12 +1943,6 @@
             "music"
         ]
     },
-    "my": {
-        "iconClass": "",
-        "collections": [
-            "my-dolphin-show"
-        ]
-    },
     "mystery": {
         "iconClass": "",
         "collections": [
@@ -2052,20 +2037,6 @@
             "panda-games"
         ]
     },
-    "papa": {
-        "iconClass": "",
-        "collections": [
-            "papa",
-            "papa-louie"
-        ]
-    },
-    "papas": {
-        "iconClass": "",
-        "collections": [
-            "papas",
-            "papas-games"
-        ]
-    },
     "parking": {
         "iconClass": "",
         "collections": [
@@ -2088,12 +2059,7 @@
     "pet": {
         "iconClass": "",
         "collections": [
-            "pet-games"
-        ]
-    },
-    "pets": {
-        "iconClass": "",
-        "collections": [
+            "pet-games",
             "pets_games"
         ]
     },
@@ -2200,13 +2166,6 @@
             "police-games"
         ]
     },
-    "pony": {
-        "iconClass": "",
-        "collections": [
-            "pony",
-            "pony-games"
-        ]
-    },
     "pool": {
         "iconClass": "",
         "collections": [
@@ -2236,7 +2195,8 @@
         "iconClass": "",
         "collections": [
             "princess",
-            "princess-juliet"
+            "princess-juliet",
+            "queen-games"
         ]
     },
     "puppy": {
@@ -2261,12 +2221,6 @@
         "iconClass": "",
         "collections": [
             "qplay-games"
-        ]
-    },
-    "queen": {
-        "iconClass": "",
-        "collections": [
-            "queen-games"
         ]
     },
     "quest": {
@@ -2318,7 +2272,11 @@
         "iconClass": "",
         "collections": [
             "restaurant",
-            "restaurant_games"
+            "restaurant_games",
+            "papa",
+            "papa-louie",
+            "papas",
+            "papas-games"
         ]
     },
     "retro": {
@@ -2485,20 +2443,10 @@
     "shop": {
         "iconClass": "",
         "collections": [
-            "shop-games"
-        ]
-    },
-    "shopaholic": {
-        "iconClass": "",
-        "collections": [
+            "shop-games",
+            "shopping-games",
             "shopaholic-games",
             "shopaholic_games"
-        ]
-    },
-    "shopping": {
-        "iconClass": "",
-        "collections": [
-            "shopping-games"
         ]
     },
     "silly": {
@@ -2972,7 +2920,9 @@
         "iconClass": "",
         "collections": [
             "unicorn",
-            "unicorn-games"
+            "unicorn-games",
+            "pony",
+            "pony-games"
         ]
     },
     "unity": {
