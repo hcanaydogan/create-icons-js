@@ -147,3 +147,6 @@ $icon--time: unicode(eaa6);
 $icon--princess: unicode(eaa7);
 $icon--wedding: unicode(eaa8);
 $icon--shop: unicode(eaa9);
+$icon--valentines: unicode(eaaa);
+$icon--flirting: unicode(eaab);
+$icon--kissing: unicode(eaac);

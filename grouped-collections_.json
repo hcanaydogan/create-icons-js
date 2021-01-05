@@ -439,12 +439,6 @@
             "boy-games"
         ]
     },
-    "boyfriend": {
-        "iconClass": "",
-        "collections": [
-            "boyfriend-games"
-        ]
-    },
     "brain": {
         "iconClass": "",
         "collections": [
@@ -874,12 +868,6 @@
             "cut-the-rope-and-friends"
         ]
     },
-    "cute": {
-        "iconClass": "",
-        "collections": [
-            "cute-games"
-        ]
-    },
     "cycling": {
         "iconClass": "",
         "collections": [
@@ -1280,7 +1268,8 @@
     "flirting": {
         "iconClass": "",
         "collections": [
-            "flirting-games"
+            "flirting-games",
+            "boyfriend-games"
         ]
     },
     "flower": {
@@ -2202,7 +2191,8 @@
     "puppy": {
         "iconClass": "",
         "collections": [
-            "puppy-games"
+            "puppy-games",
+            "cute-games"
         ]
     },
     "puzzle": {
