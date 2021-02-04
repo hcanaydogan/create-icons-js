@@ -2,7 +2,9 @@
     "2player": {
         "iconClass": "",
         "collections": [
-            "2player"
+            "2player",
+            "2-player",
+            "tap"
         ]
     },
     "3pandas": {
@@ -28,7 +30,9 @@
     "10x10": {
         "iconClass": "",
         "collections": [
-            "10x10"
+            "10x10",
+            "io",
+            "io-games"
         ]
     },
     "2d": {
@@ -42,7 +46,8 @@
         "collections": [
             "3d",
             "3d-games",
-            "3d_games"
+            "3d_games",
+            "multiplayer-action-3d"
         ]
     },
     "4x4": {
@@ -62,7 +67,8 @@
         "iconClass": "",
         "collections": [
             "action",
-            "action-arcade"
+            "action-arcade",
+            "ragdoll"
         ]
     },
     "adam": {
@@ -342,7 +348,9 @@
     "billiards": {
         "iconClass": "",
         "collections": [
-            "billiards"
+            "billiards",
+            "snooker",
+            "pool"
         ]
     },
     "bingo": {
@@ -394,7 +402,9 @@
         "iconClass": "",
         "collections": [
             "board--card",
-            "board__card"
+            "board__card",
+            "match-3",
+            "match_3"
         ]
     },
     "boat": {
@@ -737,14 +747,14 @@
     "concentration": {
         "iconClass": "",
         "collections": [
-            "concentration"
+            "concentration",
+            "detective-games"
         ]
     },
     "connect": {
         "iconClass": "",
         "collections": [
-            "connect",
-            "logic-games"
+            "connect"
         ]
     },
     "construction": {
@@ -930,12 +940,6 @@
             "design-games"
         ]
     },
-    "detective": {
-        "iconClass": "",
-        "collections": [
-            "detective-games"
-        ]
-    },
     "dice": {
         "iconClass": "",
         "collections": [
@@ -1037,7 +1041,9 @@
         "iconClass": "",
         "collections": [
             "drifting",
-            "drifting-games"
+            "drifting-games",
+            "stunt-driving",
+            "stunt_driving"
         ]
     },
     "driving": {
@@ -1249,7 +1255,8 @@
     "flash": {
         "iconClass": "",
         "collections": [
-            "flash-games"
+            "flash-games",
+            "qplay-games"
         ]
     },
     "flight": {
@@ -1376,8 +1383,6 @@
         "iconClass": "",
         "collections": [
             "games",
-            "io",
-            "io-games",
             "coolmath-games",
             "friv-games",
             "armorgames"
@@ -1491,13 +1496,6 @@
             "helix-jump"
         ]
     },
-    "hidden": {
-        "iconClass": "",
-        "collections": [
-            "hidden-object",
-            "hidden-objects"
-        ]
-    },
     "highscore": {
         "iconClass": "",
         "collections": [
@@ -1521,12 +1519,6 @@
         "iconClass": "",
         "collections": [
             "holly_hobbie"
-        ]
-    },
-    "horror": {
-        "iconClass": "",
-        "collections": [
-            "horror"
         ]
     },
     "horse": {
@@ -1574,7 +1566,10 @@
         "iconClass": "",
         "collections": [
             "hunting",
-            "hunting-games"
+            "hunting-games",
+            "sniper",
+            "sniper-games",
+            "sniper_games"
         ]
     },
     "icecream": {
@@ -1724,6 +1719,12 @@
             "little-alchemy"
         ]
     },
+    "logic": {
+        "iconClass": "",
+        "collections": [
+            "logic-games"
+        ]
+    },
     "love": {
         "iconClass": "",
         "collections": [
@@ -1781,13 +1782,6 @@
             "management_games"
         ]
     },
-    "match": {
-        "iconClass": "",
-        "collections": [
-            "match-3",
-            "match_3"
-        ]
-    },
     "math": {
         "iconClass": "",
         "collections": [
@@ -1809,7 +1803,9 @@
     "memo": {
         "iconClass": "",
         "collections": [
-            "memo"
+            "memo",
+            "hidden-object",
+            "hidden-objects"
         ]
     },
     "mermaid": {
@@ -1986,7 +1982,11 @@
     "offroad": {
         "iconClass": "",
         "collections": [
-            "offroad"
+            "offroad",
+            "uphill-racing",
+            "uphill-rush-games",
+            "uphill_racing",
+            "uphill_rush_games"
         ]
     },
     "onet": {
@@ -2155,12 +2155,6 @@
             "police-games"
         ]
     },
-    "pool": {
-        "iconClass": "",
-        "collections": [
-            "pool"
-        ]
-    },
     "popular": {
         "iconClass": "",
         "collections": [
@@ -2207,12 +2201,6 @@
             "puzzles"
         ]
     },
-    "qplay": {
-        "iconClass": "",
-        "collections": [
-            "qplay-games"
-        ]
-    },
     "quest": {
         "iconClass": "",
         "collections": [
@@ -2238,12 +2226,6 @@
             "racing",
             "city-racing",
             "city_racing"
-        ]
-    },
-    "ragdoll": {
-        "iconClass": "",
-        "collections": [
-            "ragdoll"
         ]
     },
     "rally": {
@@ -2370,7 +2352,8 @@
         "iconClass": "",
         "collections": [
             "scary",
-            "scary-games"
+            "scary-games",
+            "horror"
         ]
     },
     "school": {
@@ -2520,20 +2503,6 @@
             "snake"
         ]
     },
-    "sniper": {
-        "iconClass": "",
-        "collections": [
-            "sniper",
-            "sniper-games",
-            "sniper_games"
-        ]
-    },
-    "snooker": {
-        "iconClass": "",
-        "collections": [
-            "snooker"
-        ]
-    },
     "snow": {
         "iconClass": "",
         "collections": [
@@ -2621,7 +2590,9 @@
     "spelling": {
         "iconClass": "",
         "collections": [
-            "spelling"
+            "spelling",
+            "word",
+            "word_games"
         ]
     },
     "spider": {
@@ -2673,13 +2644,6 @@
         "iconClass": "",
         "collections": [
             "strikeforce-kitty"
-        ]
-    },
-    "stunt": {
-        "iconClass": "",
-        "collections": [
-            "stunt-driving",
-            "stunt_driving"
         ]
     },
     "subway": {
@@ -2772,12 +2736,6 @@
         "collections": [
             "tank",
             "tank-games"
-        ]
-    },
-    "tap": {
-        "iconClass": "",
-        "collections": [
-            "tap"
         ]
     },
     "tattoo": {
@@ -2927,15 +2885,6 @@
             "upgrade-games"
         ]
     },
-    "uphill": {
-        "iconClass": "",
-        "collections": [
-            "uphill-racing",
-            "uphill-rush-games",
-            "uphill_racing",
-            "uphill_rush_games"
-        ]
-    },
     "valentines": {
         "iconClass": "",
         "collections": [
@@ -3050,13 +2999,6 @@
         "iconClass": "",
         "collections": [
             "witch-games"
-        ]
-    },
-    "word": {
-        "iconClass": "",
-        "collections": [
-            "word",
-            "word_games"
         ]
     },
     "world": {
