@@ -1613,13 +1613,6 @@
             "jewel-games"
         ]
     },
-    "jigsaw": {
-        "iconClass": "",
-        "collections": [
-            "jigsaw-puzzle",
-            "jigsaw_puzzle"
-        ]
-    },
     "job": {
         "iconClass": "",
         "collections": [
@@ -2192,13 +2185,10 @@
     "puzzle": {
         "iconClass": "",
         "collections": [
-            "puzzle"
-        ]
-    },
-    "puzzles": {
-        "iconClass": "",
-        "collections": [
-            "puzzles"
+            "puzzle",
+            "puzzles",
+            "jigsaw-puzzle",
+            "jigsaw_puzzle"
         ]
     },
     "quest": {

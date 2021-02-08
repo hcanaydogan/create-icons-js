@@ -170,3 +170,8 @@ $icon--zombie: unicode(eabd);
 $icon--surgery: unicode(eabe);
 $icon--spelling: unicode(eabf);
 $icon--mahjongg: unicode(eac0);
+$icon--puzzle: unicode(eac1);
+$icon--drawing: unicode(eac2);
+$icon--coloring: unicode(eac3);
+$icon--spa: unicode(eac4);
+$icon--fruit: unicode(eac5);
