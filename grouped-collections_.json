@@ -199,7 +199,8 @@
         "iconClass": "",
         "collections": [
             "art-and-creativity",
-            "art-games"
+            "art-games",
+            "creative-games"
         ]
     },
     "asteroids": {
@@ -211,7 +212,12 @@
     "athletics": {
         "iconClass": "",
         "collections": [
-            "athletics"
+            "athletics",
+            "endless-running",
+            "running",
+            "running-games",
+            "avoiding",
+            "subway-surfers"
         ]
     },
     "autumn": {
@@ -231,17 +237,18 @@
             "multiplayer-simulation"
         ]
     },
-    "avoiding": {
-        "iconClass": "",
-        "collections": [
-            "avoiding"
-        ]
-    },
     "award": {
         "iconClass": "",
         "collections": [
             "award-games",
-            "award_games"
+            "award_games",
+            "best-of-2014",
+            "best-of-2016",
+            "best-of-2017",
+            "best-of-2018",
+            "best-of-2019-",
+            "best-of-2019-girls-",
+            "best_of_2013"
         ]
     },
     "baby": {
@@ -326,25 +333,6 @@
             "bejeweled"
         ]
     },
-    "best": {
-        "iconClass": "",
-        "collections": [
-            "best-of-2014",
-            "best-of-2016",
-            "best-of-2017",
-            "best-of-2018",
-            "best-of-2019-",
-            "best-of-2019-girls-",
-            "best_of_2013"
-        ]
-    },
-    "bike": {
-        "iconClass": "",
-        "collections": [
-            "bike",
-            "bike-games"
-        ]
-    },
     "billiards": {
         "iconClass": "",
         "collections": [
@@ -404,7 +392,8 @@
             "board--card",
             "board__card",
             "match-3",
-            "match_3"
+            "match_3",
+            "ludo"
         ]
     },
     "boat": {
@@ -718,12 +707,6 @@
             "collect__run"
         ]
     },
-    "collecting": {
-        "iconClass": "",
-        "collections": [
-            "collecting"
-        ]
-    },
     "coloredblocks": {
         "iconClass": "",
         "collections": [
@@ -805,13 +788,9 @@
     "craft": {
         "iconClass": "",
         "collections": [
-            "craft"
-        ]
-    },
-    "crafting": {
-        "iconClass": "",
-        "collections": [
-            "crafting"
+            "craft",
+            "crafting",
+            "kogama"
         ]
     },
     "crash": {
@@ -831,12 +810,6 @@
         "iconClass": "",
         "collections": [
             "creation-games"
-        ]
-    },
-    "creative": {
-        "iconClass": "",
-        "collections": [
-            "creative-games"
         ]
     },
     "cricket": {
@@ -881,7 +854,9 @@
     "cycling": {
         "iconClass": "",
         "collections": [
-            "cycling"
+            "cycling",
+            "bike",
+            "bike-games"
         ]
     },
     "dance": {
@@ -910,12 +885,7 @@
         "iconClass": "",
         "collections": [
             "decorating",
-            "decorating-games"
-        ]
-    },
-    "decoration": {
-        "iconClass": "",
-        "collections": [
+            "decorating-games",
             "decoration",
             "decoration-games"
         ]
@@ -1084,7 +1054,8 @@
         "iconClass": "",
         "collections": [
             "easy-games",
-            "multiplayer-casual"
+            "multiplayer-casual",
+            "family-games"
         ]
     },
     "educational": {
@@ -1117,12 +1088,6 @@
             "empire"
         ]
     },
-    "endless": {
-        "iconClass": "",
-        "collections": [
-            "endless-running"
-        ]
-    },
     "escaping": {
         "iconClass": "",
         "collections": [
@@ -1152,12 +1117,6 @@
         "collections": [
             "fairy",
             "fairy-games"
-        ]
-    },
-    "family": {
-        "iconClass": "",
-        "collections": [
-            "family-games"
         ]
     },
     "fancy": {
@@ -1330,7 +1289,8 @@
         "iconClass": "",
         "collections": [
             "fps",
-            "first-person-shooter"
+            "first-person-shooter",
+            "top-down-shooter"
         ]
     },
     "freecell": {
@@ -1385,7 +1345,8 @@
             "games",
             "coolmath-games",
             "friv-games",
-            "armorgames"
+            "armorgames",
+            "play-games-stay-safe"
         ]
     },
     "games79832780321780": {
@@ -1610,7 +1571,8 @@
         "iconClass": "",
         "collections": [
             "jewel",
-            "jewel-games"
+            "jewel-games",
+            "collecting"
         ]
     },
     "job": {
@@ -1687,12 +1649,6 @@
             "knight-games"
         ]
     },
-    "kogama": {
-        "iconClass": "",
-        "collections": [
-            "kogama"
-        ]
-    },
     "kongregate": {
         "iconClass": "",
         "collections": [
@@ -1715,7 +1671,8 @@
     "logic": {
         "iconClass": "",
         "collections": [
-            "logic-games"
+            "logic-games",
+            "skill"
         ]
     },
     "love": {
@@ -1724,12 +1681,6 @@
             "love",
             "love-games",
             "love-test"
-        ]
-    },
-    "ludo": {
-        "iconClass": "",
-        "collections": [
-            "ludo"
         ]
     },
     "mafia": {
@@ -1744,16 +1695,11 @@
             "magic-games"
         ]
     },
-    "mahjong": {
-        "iconClass": "",
-        "collections": [
-            "mahjong"
-        ]
-    },
     "mahjongg": {
         "iconClass": "",
         "collections": [
-            "mahjongg"
+            "mahjongg",
+            "mahjong"
         ]
     },
     "makeover": {
@@ -1870,29 +1816,14 @@
             "mothers-day-games"
         ]
     },
-    "moto": {
-        "iconClass": "",
-        "collections": [
-            "moto-x3m"
-        ]
-    },
     "motocross": {
         "iconClass": "",
         "collections": [
-            "motocross"
-        ]
-    },
-    "motor": {
-        "iconClass": "",
-        "collections": [
+            "motocross",
             "motor-racing",
-            "motor_racing"
-        ]
-    },
-    "motorcycle": {
-        "iconClass": "",
-        "collections": [
-            "motorcycle"
+            "motor_racing",
+            "motorcycle",
+            "moto-x3m"
         ]
     },
     "mouse": {
@@ -2110,12 +2041,6 @@
             "platform_games"
         ]
     },
-    "play": {
-        "iconClass": "",
-        "collections": [
-            "play-games-stay-safe"
-        ]
-    },
     "plinga": {
         "iconClass": "",
         "collections": [
@@ -2148,12 +2073,6 @@
             "police-games"
         ]
     },
-    "popular": {
-        "iconClass": "",
-        "collections": [
-            "popular"
-        ]
-    },
     "pou": {
         "iconClass": "",
         "collections": [
@@ -2164,7 +2083,12 @@
     "premium": {
         "iconClass": "",
         "collections": [
-            "premium"
+            "premium",
+            "popular",
+            "try-now",
+            "try-now-",
+            "try-now-gd",
+            "try-now-gd-girls"
         ]
     },
     "princess": {
@@ -2266,13 +2190,6 @@
             "rocket-games"
         ]
     },
-    "role": {
-        "iconClass": "",
-        "collections": [
-            "role-playing-games",
-            "role_playing_games"
-        ]
-    },
     "roller": {
         "iconClass": "",
         "collections": [
@@ -2310,13 +2227,6 @@
         "collections": [
             "run--shoot",
             "run__shoot"
-        ]
-    },
-    "running": {
-        "iconClass": "",
-        "collections": [
-            "running",
-            "running-games"
         ]
     },
     "salon": {
@@ -2433,7 +2343,9 @@
     "singleplayer": {
         "iconClass": "",
         "collections": [
-            "singleplayer"
+            "singleplayer",
+            "role-playing-games",
+            "role_playing_games"
         ]
     },
     "skateboard": {
@@ -2446,12 +2358,6 @@
         "iconClass": "",
         "collections": [
             "skateboarding"
-        ]
-    },
-    "skill": {
-        "iconClass": "",
-        "collections": [
-            "skill"
         ]
     },
     "slacking": {
@@ -2636,12 +2542,6 @@
             "strikeforce-kitty"
         ]
     },
-    "subway": {
-        "iconClass": "",
-        "collections": [
-            "subway-surfers"
-        ]
-    },
     "sudoku": {
         "iconClass": "",
         "collections": [
@@ -2784,11 +2684,10 @@
             "time-management"
         ]
     },
-    "top": {
+    "top100": {
         "iconClass": "",
         "collections": [
-            "top-100",
-            "top-down-shooter"
+            "top-100"
         ]
     },
     "tournament": {
@@ -2829,15 +2728,6 @@
         "collections": [
             "truck",
             "truck-games"
-        ]
-    },
-    "try": {
-        "iconClass": "",
-        "collections": [
-            "try-now",
-            "try-now-",
-            "try-now-gd",
-            "try-now-gd-girls"
         ]
     },
     "tycoon": {
