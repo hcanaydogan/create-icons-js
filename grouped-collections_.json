@@ -7,12 +7,7 @@
             "tap"
         ]
     },
-    "3pandas": {
-        "iconClass": "",
-        "collections": [
-            "3-pandas"
-        ]
-    },
+
     "1001": {
         "iconClass": "",
         "collections": [
@@ -47,7 +42,8 @@
             "3d",
             "3d-games",
             "3d_games",
-            "multiplayer-action-3d"
+            "multiplayer-action-3d",
+            "webgl"
         ]
     },
     "4x4": {
@@ -217,7 +213,9 @@
             "running",
             "running-games",
             "avoiding",
-            "subway-surfers"
+            "subway-surfers",
+            "sports",
+            "sports-heads"
         ]
     },
     "autumn": {
@@ -257,13 +255,6 @@
             "baby",
             "baby-games",
             "babysitting"
-        ]
-    },
-    "back": {
-        "iconClass": "",
-        "collections": [
-            "back-to-school-games",
-            "back_to_school_games"
         ]
     },
     "baking": {
@@ -350,7 +341,11 @@
     "bird": {
         "iconClass": "",
         "collections": [
-            "bird-games"
+            "bird-games",
+            "penguin-games",
+            "flappy-bird",
+            "flappy-bird-games",
+            "flappy_bird_games"
         ]
     },
     "birthday": {
@@ -635,12 +630,6 @@
             "chicken-games"
         ]
     },
-    "children": {
-        "iconClass": "",
-        "collections": [
-            "children-games"
-        ]
-    },
     "chinese": {
         "iconClass": "",
         "collections": [
@@ -651,7 +640,8 @@
         "iconClass": "",
         "collections": [
             "christmas",
-            "christmas_games"
+            "christmas_games",
+            "santa-games"
         ]
     },
     "circus": {
@@ -681,16 +671,16 @@
             "cleaning-games"
         ]
     },
-    "clicker": {
-        "iconClass": "",
-        "collections": [
-            "clicker"
-        ]
-    },
     "clicking": {
         "iconClass": "",
         "collections": [
-            "clicking-games"
+            "clicking-games",
+            "clicker",
+            "mouse-games",
+            "point--click",
+            "point__click"
+
+
         ]
     },
     "clothes": {
@@ -776,7 +766,8 @@
         "iconClass": "",
         "collections": [
             "couple-games",
-            "couple_dress_up_games"
+            "couple_dress_up_games",
+            "adam-and-eve"
         ]
     },
     "cowboy": {
@@ -962,7 +953,8 @@
         "collections": [
             "doll-games",
             "doll_dress_up_games",
-            "dolls"
+            "dolls",
+            "children-games"
         ]
     },
     "dollhouse": {
@@ -1020,7 +1012,8 @@
         "iconClass": "",
         "collections": [
             "driving",
-            "driving-games"
+            "driving-games",
+            "vehicles"
         ]
     },
     "drum": {
@@ -1201,14 +1194,6 @@
         "iconClass": "",
         "collections": [
             "five-nights-at-freddys"
-        ]
-    },
-    "flappy": {
-        "iconClass": "",
-        "collections": [
-            "flappy-bird",
-            "flappy-bird-games",
-            "flappy_bird_games"
         ]
     },
     "flash": {
@@ -1826,12 +1811,6 @@
             "moto-x3m"
         ]
     },
-    "mouse": {
-        "iconClass": "",
-        "collections": [
-            "mouse-games"
-        ]
-    },
     "movie": {
         "iconClass": "",
         "collections": [
@@ -1947,7 +1926,8 @@
     "panda": {
         "iconClass": "",
         "collections": [
-            "panda-games"
+            "panda-games",
+            "3-pandas"
         ]
     },
     "parking": {
@@ -1961,12 +1941,6 @@
         "collections": [
             "party-games",
             "party_dress_up_games"
-        ]
-    },
-    "penguin": {
-        "iconClass": "",
-        "collections": [
-            "penguin-games"
         ]
     },
     "pet": {
@@ -2045,13 +2019,6 @@
         "iconClass": "",
         "collections": [
             "plinga"
-        ]
-    },
-    "point": {
-        "iconClass": "",
-        "collections": [
-            "point--click",
-            "point__click"
         ]
     },
     "poker": {
@@ -2193,7 +2160,8 @@
     "roller": {
         "iconClass": "",
         "collections": [
-            "roller-coaster"
+            "roller-coaster",
+            "thrill-rush"
         ]
     },
     "room": {
@@ -2242,12 +2210,6 @@
             "samurai-games"
         ]
     },
-    "santa": {
-        "iconClass": "",
-        "collections": [
-            "santa-games"
-        ]
-    },
     "scary": {
         "iconClass": "",
         "collections": [
@@ -2259,7 +2221,9 @@
     "school": {
         "iconClass": "",
         "collections": [
-            "school-games"
+            "school-games",
+            "back-to-school-games",
+            "back_to_school_games"
         ]
     },
     "science": {
@@ -2384,12 +2348,7 @@
         "iconClass": "",
         "collections": [
             "snail-bob",
-            "snail-bob-games"
-        ]
-    },
-    "snailbob": {
-        "iconClass": "",
-        "collections": [
+            "snail-bob-games",
             "snailbob-games"
         ]
     },
@@ -2503,11 +2462,9 @@
             "spongebob-squarepants"
         ]
     },
-    "sports": {
+    "sportoutfit": {
         "iconClass": "",
         "collections": [
-            "sports",
-            "sports-heads",
             "sports_dress_up_games"
         ]
     },
@@ -2666,12 +2623,6 @@
             "third-person-shooter"
         ]
     },
-    "thrill": {
-        "iconClass": "",
-        "collections": [
-            "thrill-rush"
-        ]
-    },
     "tic": {
         "iconClass": "",
         "collections": [
@@ -2780,12 +2731,6 @@
             "vampire-games"
         ]
     },
-    "vehicles": {
-        "iconClass": "",
-        "collections": [
-            "vehicles"
-        ]
-    },
     "vet": {
         "iconClass": "",
         "collections": [
@@ -2831,13 +2776,8 @@
             "water",
             "water-games",
             "water-sports",
-            "water_sports"
-        ]
-    },
-    "webgl": {
-        "iconClass": "",
-        "collections": [
-            "webgl"
+            "water_sports",
+            "swimming-games"
         ]
     },
     "wedding": {
