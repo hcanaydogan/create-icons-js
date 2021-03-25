@@ -10,8 +10,8 @@ const iconContentsRL = readline.createInterface({
 
 //let writeStream = fs.createWriteStream("CollectionsUnicodeClassList.txt");
 let sassList = "//collections\n";
-let regGetCollectionName = new RegExp("icon--(.*):");
-let regGetUnicode = new RegExp("unicode\\((.*)\\)")
+let regGetCollectionName = new RegExp(`"(.*)":`);
+let regGetUnicode = new RegExp(`: "(.*)"`);
 iconContentsRL.on("line", line => {
     let collection = regGetCollectionName.exec(line)[1];
     let unicode = regGetUnicode.exec(line)[1];
