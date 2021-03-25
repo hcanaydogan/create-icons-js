@@ -788,8 +788,8 @@
     },
     "creation": {
         "iconClass": "",
-        "collections": [,
-            "design-games"
+        "collections": [
+            "design-games",
             "creation-games"
         ]
     },
@@ -2482,13 +2482,6 @@
             "sushi-games"
         ]
     },
-    "tennis": {
-        "iconClass": "",
-        "collections": [
-            "table-tennis",
-            "table_tennis"
-        ]
-    },
     "tank": {
         "iconClass": "",
         "collections": [
@@ -2513,7 +2506,9 @@
     "tennis": {
         "iconClass": "",
         "collections": [
-            "tennis"
+            "tennis",
+            "table-tennis",
+            "table_tennis"
         ]
     },
     "thanksgiving": {
