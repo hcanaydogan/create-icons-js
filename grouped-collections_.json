@@ -140,7 +140,9 @@
             "animal-games",
             "animal_dress_up_games",
             "animal_games",
-            "animals"
+            "animals",
+            "pet-games",
+            "pets_games"
         ]
     },
     "anime": {
@@ -1680,7 +1682,7 @@
             "magic-games"
         ]
     },
-    "mahjongg": {
+    "mahjong": {
         "iconClass": "",
         "collections": [
             "mahjongg",
@@ -1941,13 +1943,6 @@
         "collections": [
             "party-games",
             "party_dress_up_games"
-        ]
-    },
-    "pet": {
-        "iconClass": "",
-        "collections": [
-            "pet-games",
-            "pets_games"
         ]
     },
     "physics": {
@@ -2421,12 +2416,7 @@
             "space",
             "space-games",
             "space-invaders",
-            "space_invaders"
-        ]
-    },
-    "spaceship": {
-        "iconClass": "",
-        "collections": [
+            "space_invaders",
             "spaceship-games"
         ]
     },
