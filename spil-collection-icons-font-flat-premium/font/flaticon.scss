@@ -2,11 +2,11 @@ $flaticon-font: "flaticon";
 
 @font-face {
     font-family: $flaticon-font;
-    src: url("./flaticon.ttf?e299bbbb915f70f802e9cdbc6b4a869c") format("truetype"),
-url("./flaticon.woff?e299bbbb915f70f802e9cdbc6b4a869c") format("woff"),
-url("./flaticon.woff2?e299bbbb915f70f802e9cdbc6b4a869c") format("woff2"),
-url("./flaticon.eot?e299bbbb915f70f802e9cdbc6b4a869c#iefix") format("embedded-opentype"),
-url("./flaticon.svg?e299bbbb915f70f802e9cdbc6b4a869c#flaticon") format("svg");
+    src: url("./flaticon.ttf?f5f3420300f93d7d50cedde5d8c8f853") format("truetype"),
+url("./flaticon.woff?f5f3420300f93d7d50cedde5d8c8f853") format("woff"),
+url("./flaticon.woff2?f5f3420300f93d7d50cedde5d8c8f853") format("woff2"),
+url("./flaticon.eot?f5f3420300f93d7d50cedde5d8c8f853#iefix") format("embedded-opentype"),
+url("./flaticon.svg?f5f3420300f93d7d50cedde5d8c8f853#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
@@ -28,41 +28,41 @@ $flaticon-map: (
     "3d": "\f105",
     "accessories": "\f106",
     "action": "\f107",
-    "adventure": "\f108",
-    "aim": "\f109",
-    "air-hockey": "\f10a",
-    "ambulance": "\f10b",
-    "american": "\f10c",
-    "animal": "\f10d",
-    "anime": "\f10e",
-    "arcade": "\f10f",
-    "archery": "\f110",
-    "army": "\f111",
-    "art": "\f112",
-    "asteroids": "\f113",
-    "astronaut": "\f114",
-    "avatar": "\f115",
-    "award": "\f116",
-    "baby": "\f117",
-    "baking": "\f118",
-    "ball": "\f119",
-    "balloon": "\f11a",
-    "bar": "\f11b",
-    "baseball": "\f11c",
-    "basketball": "\f11d",
-    "battle": "\f11e",
-    "bed": "\f11f",
-    "billiards": "\f120",
-    "bird": "\f121",
-    "blood": "\f122",
-    "board": "\f123",
-    "boardcard": "\f124",
-    "boat": "\f125",
-    "bomb": "\f126",
-    "bowling": "\f127",
-    "boxing": "\f128",
-    "boy": "\f129",
-    "brain-1": "\f12a",
+    "addicting": "\f108",
+    "adventure": "\f109",
+    "aim": "\f10a",
+    "air-hockey": "\f10b",
+    "alien": "\f10c",
+    "ambulance": "\f10d",
+    "american": "\f10e",
+    "animal": "\f10f",
+    "anime": "\f110",
+    "arcade": "\f111",
+    "archery": "\f112",
+    "army": "\f113",
+    "art": "\f114",
+    "asteroids": "\f115",
+    "avatar": "\f116",
+    "award": "\f117",
+    "baby": "\f118",
+    "baking": "\f119",
+    "ball": "\f11a",
+    "balloon": "\f11b",
+    "bar": "\f11c",
+    "baseball": "\f11d",
+    "basketball": "\f11e",
+    "battle": "\f11f",
+    "bedroom": "\f120",
+    "billiards": "\f121",
+    "bird": "\f122",
+    "blood": "\f123",
+    "board": "\f124",
+    "boardcard": "\f125",
+    "boat": "\f126",
+    "bomb": "\f127",
+    "bowling": "\f128",
+    "boxing": "\f129",
+    "boy": "\f12a",
     "brain": "\f12b",
     "bridge": "\f12c",
     "browser": "\f12d",
@@ -85,57 +85,57 @@ $flaticon-map: (
     "chain": "\f13e",
     "chicken": "\f13f",
     "christmas": "\f140",
-    "circus-tent": "\f141",
+    "circus": "\f141",
     "classic": "\f142",
     "cleaning": "\f143",
-    "clicker": "\f144",
+    "clicking": "\f144",
     "clothes": "\f145",
     "coloredblocks": "\f146",
     "coloring": "\f147",
     "concentration": "\f148",
     "connect": "\f149",
-    "cooking-1": "\f14a",
-    "cooking": "\f14b",
-    "couple": "\f14c",
+    "cooking": "\f14a",
+    "couple": "\f14b",
+    "craft": "\f14c",
     "crash": "\f14d",
     "crazy": "\f14e",
-    "cubes": "\f14f",
-    "cupcake": "\f150",
-    "cycling": "\f151",
-    "dance": "\f152",
-    "darts": "\f153",
-    "dating": "\f154",
-    "decorating": "\f155",
-    "dentist": "\f156",
-    "doctor": "\f157",
-    "dog": "\f158",
-    "doll": "\f159",
-    "dollhouse": "\f15a",
-    "dolphin": "\f15b",
-    "dragon": "\f15c",
-    "drawing": "\f15d",
-    "dress": "\f15e",
-    "drifting": "\f15f",
-    "driving": "\f160",
-    "easy": "\f161",
-    "educational": "\f162",
-    "emmas": "\f163",
-    "escaping": "\f164",
-    "farm": "\f165",
-    "fashion": "\f166",
-    "fighting": "\f167",
-    "fish": "\f168",
-    "fishing": "\f169",
-    "flash": "\f16a",
-    "flight": "\f16b",
-    "flip": "\f16c",
-    "flirting": "\f16d",
-    "flower": "\f16e",
-    "flying": "\f16f",
-    "food": "\f170",
-    "footballmanagement": "\f171",
-    "fps": "\f172",
-    "fruit": "\f173",
+    "cupcake": "\f14f",
+    "cycling": "\f150",
+    "dance": "\f151",
+    "darts": "\f152",
+    "dating": "\f153",
+    "decorating": "\f154",
+    "dentist": "\f155",
+    "doctor": "\f156",
+    "dog": "\f157",
+    "doll": "\f158",
+    "dollhouse": "\f159",
+    "dolphin": "\f15a",
+    "dragon": "\f15b",
+    "drawing": "\f15c",
+    "dress": "\f15d",
+    "drifting": "\f15e",
+    "driving": "\f15f",
+    "easy": "\f160",
+    "educational": "\f161",
+    "emmas": "\f162",
+    "escaping": "\f163",
+    "farm": "\f164",
+    "fashion": "\f165",
+    "fighting": "\f166",
+    "fish": "\f167",
+    "fishing": "\f168",
+    "flash": "\f169",
+    "flight": "\f16a",
+    "flip": "\f16b",
+    "flirting": "\f16c",
+    "flower": "\f16d",
+    "flying": "\f16e",
+    "food": "\f16f",
+    "footballmanagement": "\f170",
+    "fps": "\f171",
+    "fruit": "\f172",
+    "fun": "\f173",
     "games": "\f174",
     "garden": "\f175",
     "girls": "\f176",
@@ -144,70 +144,69 @@ $flaticon-map: (
     "gun": "\f179",
     "hair": "\f17a",
     "hamster": "\f17b",
-    "horse": "\f17c",
-    "hospital": "\f17d",
-    "house": "\f17e",
-    "html5": "\f17f",
-    "humor": "\f180",
-    "hunting": "\f181",
-    "ihotel": "\f182",
-    "invaders": "\f183",
-    "jewel": "\f184",
-    "jumping": "\f185",
-    "kissing": "\f186",
-    "kogama": "\f187",
-    "lineracing": "\f188",
+    "highscore": "\f17c",
+    "horse": "\f17d",
+    "hospital": "\f17e",
+    "hotel": "\f17f",
+    "house": "\f180",
+    "html5": "\f181",
+    "hunting": "\f182",
+    "jewel": "\f183",
+    "jumping": "\f184",
+    "kissing": "\f185",
+    "kitchen": "\f186",
+    "lineracing": "\f187",
+    "logic": "\f188",
     "love": "\f189",
     "magic": "\f18a",
     "mahjong": "\f18b",
-    "make-up": "\f18c",
+    "makeover": "\f18c",
     "math": "\f18d",
-    "memory": "\f18e",
+    "memo": "\f18e",
     "mobile": "\f18f",
-    "motion": "\f190",
-    "motocross": "\f191",
-    "multiplayer": "\f192",
-    "music": "\f193",
-    "mystery": "\f194",
-    "nail": "\f195",
-    "offroad": "\f196",
-    "panda": "\f197",
-    "parking": "\f198",
-    "party": "\f199",
-    "piano": "\f19a",
-    "pizza": "\f19b",
-    "platform": "\f19c",
-    "premium": "\f19d",
-    "puppy": "\f19e",
-    "puzzle": "\f19f",
-    "quiz": "\f1a0",
-    "racing": "\f1a1",
-    "ranking": "\f1a2",
-    "restaurant": "\f1a3",
-    "robot": "\f1a4",
-    "roller": "\f1a5",
-    "room": "\f1a6",
-    "scary": "\f1a7",
-    "school": "\f1a8",
-    "settings": "\f1a9",
-    "shop": "\f1aa",
-    "snail": "\f1ab",
-    "soccer": "\f1ac",
-    "social": "\f1ad",
-    "spa": "\f1ae",
-    "spelling": "\f1af",
-    "sportoutfit": "\f1b0",
-    "stickman": "\f1b1",
-    "surgery": "\f1b2",
-    "sushi": "\f1b3",
-    "top100": "\f1b4",
-    "typing": "\f1b5",
-    "unicorn": "\f1b6",
-    "valentines": "\f1b7",
-    "war": "\f1b8",
-    "water": "\f1b9",
-    "wedding": "\f1ba",
-    "winter": "\f1bb",
+    "motocross": "\f190",
+    "multiplayer": "\f191",
+    "music": "\f192",
+    "mystery": "\f193",
+    "nail": "\f194",
+    "offroad": "\f195",
+    "panda": "\f196",
+    "parking": "\f197",
+    "party": "\f198",
+    "piano": "\f199",
+    "pizza": "\f19a",
+    "platform": "\f19b",
+    "premium": "\f19c",
+    "puppy": "\f19d",
+    "puzzle": "\f19e",
+    "quiz": "\f19f",
+    "racing": "\f1a0",
+    "restaurant": "\f1a1",
+    "robot": "\f1a2",
+    "roller": "\f1a3",
+    "room": "\f1a4",
+    "scary": "\f1a5",
+    "school": "\f1a6",
+    "shop": "\f1a7",
+    "snail": "\f1a8",
+    "soccer": "\f1a9",
+    "social": "\f1aa",
+    "spa": "\f1ab",
+    "space": "\f1ac",
+    "spelling": "\f1ad",
+    "sportoutfit": "\f1ae",
+    "stickman": "\f1af",
+    "surgery": "\f1b0",
+    "sushi": "\f1b1",
+    "time": "\f1b2",
+    "top100": "\f1b3",
+    "typing": "\f1b4",
+    "unicorn": "\f1b5",
+    "valentines": "\f1b6",
+    "war": "\f1b7",
+    "water": "\f1b8",
+    "wedding": "\f1b9",
+    "winter": "\f1ba",
 );
 
 .flaticon-1001:before {
@@ -231,6 +230,9 @@ $flaticon-map: (
 .flaticon-action:before {
     content: map-get($flaticon-map, "action");
 }
+.flaticon-addicting:before {
+    content: map-get($flaticon-map, "addicting");
+}
 .flaticon-adventure:before {
     content: map-get($flaticon-map, "adventure");
 }
@@ -239,6 +241,9 @@ $flaticon-map: (
 }
 .flaticon-air-hockey:before {
     content: map-get($flaticon-map, "air-hockey");
+}
+.flaticon-alien:before {
+    content: map-get($flaticon-map, "alien");
 }
 .flaticon-ambulance:before {
     content: map-get($flaticon-map, "ambulance");
@@ -266,9 +271,6 @@ $flaticon-map: (
 }
 .flaticon-asteroids:before {
     content: map-get($flaticon-map, "asteroids");
-}
-.flaticon-astronaut:before {
-    content: map-get($flaticon-map, "astronaut");
 }
 .flaticon-avatar:before {
     content: map-get($flaticon-map, "avatar");
@@ -300,8 +302,8 @@ $flaticon-map: (
 .flaticon-battle:before {
     content: map-get($flaticon-map, "battle");
 }
-.flaticon-bed:before {
-    content: map-get($flaticon-map, "bed");
+.flaticon-bedroom:before {
+    content: map-get($flaticon-map, "bedroom");
 }
 .flaticon-billiards:before {
     content: map-get($flaticon-map, "billiards");
@@ -332,9 +334,6 @@ $flaticon-map: (
 }
 .flaticon-boy:before {
     content: map-get($flaticon-map, "boy");
-}
-.flaticon-brain-1:before {
-    content: map-get($flaticon-map, "brain-1");
 }
 .flaticon-brain:before {
     content: map-get($flaticon-map, "brain");
@@ -402,8 +401,8 @@ $flaticon-map: (
 .flaticon-christmas:before {
     content: map-get($flaticon-map, "christmas");
 }
-.flaticon-circus-tent:before {
-    content: map-get($flaticon-map, "circus-tent");
+.flaticon-circus:before {
+    content: map-get($flaticon-map, "circus");
 }
 .flaticon-classic:before {
     content: map-get($flaticon-map, "classic");
@@ -411,8 +410,8 @@ $flaticon-map: (
 .flaticon-cleaning:before {
     content: map-get($flaticon-map, "cleaning");
 }
-.flaticon-clicker:before {
-    content: map-get($flaticon-map, "clicker");
+.flaticon-clicking:before {
+    content: map-get($flaticon-map, "clicking");
 }
 .flaticon-clothes:before {
     content: map-get($flaticon-map, "clothes");
@@ -429,23 +428,20 @@ $flaticon-map: (
 .flaticon-connect:before {
     content: map-get($flaticon-map, "connect");
 }
-.flaticon-cooking-1:before {
-    content: map-get($flaticon-map, "cooking-1");
-}
 .flaticon-cooking:before {
     content: map-get($flaticon-map, "cooking");
 }
 .flaticon-couple:before {
     content: map-get($flaticon-map, "couple");
 }
+.flaticon-craft:before {
+    content: map-get($flaticon-map, "craft");
+}
 .flaticon-crash:before {
     content: map-get($flaticon-map, "crash");
 }
 .flaticon-crazy:before {
     content: map-get($flaticon-map, "crazy");
-}
-.flaticon-cubes:before {
-    content: map-get($flaticon-map, "cubes");
 }
 .flaticon-cupcake:before {
     content: map-get($flaticon-map, "cupcake");
@@ -555,6 +551,9 @@ $flaticon-map: (
 .flaticon-fruit:before {
     content: map-get($flaticon-map, "fruit");
 }
+.flaticon-fun:before {
+    content: map-get($flaticon-map, "fun");
+}
 .flaticon-games:before {
     content: map-get($flaticon-map, "games");
 }
@@ -579,11 +578,17 @@ $flaticon-map: (
 .flaticon-hamster:before {
     content: map-get($flaticon-map, "hamster");
 }
+.flaticon-highscore:before {
+    content: map-get($flaticon-map, "highscore");
+}
 .flaticon-horse:before {
     content: map-get($flaticon-map, "horse");
 }
 .flaticon-hospital:before {
     content: map-get($flaticon-map, "hospital");
+}
+.flaticon-hotel:before {
+    content: map-get($flaticon-map, "hotel");
 }
 .flaticon-house:before {
     content: map-get($flaticon-map, "house");
@@ -591,17 +596,8 @@ $flaticon-map: (
 .flaticon-html5:before {
     content: map-get($flaticon-map, "html5");
 }
-.flaticon-humor:before {
-    content: map-get($flaticon-map, "humor");
-}
 .flaticon-hunting:before {
     content: map-get($flaticon-map, "hunting");
-}
-.flaticon-ihotel:before {
-    content: map-get($flaticon-map, "ihotel");
-}
-.flaticon-invaders:before {
-    content: map-get($flaticon-map, "invaders");
 }
 .flaticon-jewel:before {
     content: map-get($flaticon-map, "jewel");
@@ -612,11 +608,14 @@ $flaticon-map: (
 .flaticon-kissing:before {
     content: map-get($flaticon-map, "kissing");
 }
-.flaticon-kogama:before {
-    content: map-get($flaticon-map, "kogama");
+.flaticon-kitchen:before {
+    content: map-get($flaticon-map, "kitchen");
 }
 .flaticon-lineracing:before {
     content: map-get($flaticon-map, "lineracing");
+}
+.flaticon-logic:before {
+    content: map-get($flaticon-map, "logic");
 }
 .flaticon-love:before {
     content: map-get($flaticon-map, "love");
@@ -627,20 +626,17 @@ $flaticon-map: (
 .flaticon-mahjong:before {
     content: map-get($flaticon-map, "mahjong");
 }
-.flaticon-make-up:before {
-    content: map-get($flaticon-map, "make-up");
+.flaticon-makeover:before {
+    content: map-get($flaticon-map, "makeover");
 }
 .flaticon-math:before {
     content: map-get($flaticon-map, "math");
 }
-.flaticon-memory:before {
-    content: map-get($flaticon-map, "memory");
+.flaticon-memo:before {
+    content: map-get($flaticon-map, "memo");
 }
 .flaticon-mobile:before {
     content: map-get($flaticon-map, "mobile");
-}
-.flaticon-motion:before {
-    content: map-get($flaticon-map, "motion");
 }
 .flaticon-motocross:before {
     content: map-get($flaticon-map, "motocross");
@@ -693,9 +689,6 @@ $flaticon-map: (
 .flaticon-racing:before {
     content: map-get($flaticon-map, "racing");
 }
-.flaticon-ranking:before {
-    content: map-get($flaticon-map, "ranking");
-}
 .flaticon-restaurant:before {
     content: map-get($flaticon-map, "restaurant");
 }
@@ -714,9 +707,6 @@ $flaticon-map: (
 .flaticon-school:before {
     content: map-get($flaticon-map, "school");
 }
-.flaticon-settings:before {
-    content: map-get($flaticon-map, "settings");
-}
 .flaticon-shop:before {
     content: map-get($flaticon-map, "shop");
 }
@@ -732,6 +722,9 @@ $flaticon-map: (
 .flaticon-spa:before {
     content: map-get($flaticon-map, "spa");
 }
+.flaticon-space:before {
+    content: map-get($flaticon-map, "space");
+}
 .flaticon-spelling:before {
     content: map-get($flaticon-map, "spelling");
 }
@@ -746,6 +739,9 @@ $flaticon-map: (
 }
 .flaticon-sushi:before {
     content: map-get($flaticon-map, "sushi");
+}
+.flaticon-time:before {
+    content: map-get($flaticon-map, "time");
 }
 .flaticon-top100:before {
     content: map-get($flaticon-map, "top100");
