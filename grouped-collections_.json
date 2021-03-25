@@ -43,13 +43,8 @@
             "3d-games",
             "3d_games",
             "multiplayer-action-3d",
-            "webgl"
-        ]
-    },
-    "4x4": {
-        "iconClass": "",
-        "collections": [
-            "4x4"
+            "webgl",
+            "third-person-shooter"
         ]
     },
     "accessories": {
@@ -64,7 +59,8 @@
         "collections": [
             "action",
             "action-arcade",
-            "ragdoll"
+            "ragdoll",
+            "extreme-games"
         ]
     },
     "adam": {
@@ -82,7 +78,8 @@
     "adventure": {
         "iconClass": "",
         "collections": [
-            "adventure"
+            "adventure",
+            "exploring"
         ]
     },
     "aim": {
@@ -284,12 +281,6 @@
             "bar-games"
         ]
     },
-    "barbie": {
-        "iconClass": "",
-        "collections": [
-            "barbie"
-        ]
-    },
     "baseball": {
         "iconClass": "",
         "collections": [
@@ -305,7 +296,9 @@
     "battle": {
         "iconClass": "",
         "collections": [
-            "battle"
+            "battle",
+            "defense",
+            "defense-games"
         ]
     },
     "beach": {
@@ -356,12 +349,6 @@
             "birthday-games"
         ]
     },
-    "blackjack": {
-        "iconClass": "",
-        "collections": [
-            "blackjack"
-        ]
-    },
     "blood": {
         "iconClass": "",
         "collections": [
@@ -380,7 +367,8 @@
         "collections": [
             "board",
             "strategy",
-            "multiplayer-strategy"
+            "multiplayer-strategy",
+            "tactical-games"
         ]
     },
     "boardcard": {
@@ -465,7 +453,8 @@
         "iconClass": "",
         "collections": [
             "building",
-            "building-games"
+            "building-games",
+            "construction-games"
         ]
     },
     "bullet": {
@@ -477,7 +466,8 @@
     "bunny": {
         "iconClass": "",
         "collections": [
-            "bunny-games"
+            "bunny-games",
+            "rabbit-games"
         ]
     },
     "bus": {
@@ -530,7 +520,8 @@
             "card-games",
             "card-solitaire",
             "card_games",
-            "card_solitaire"
+            "card_solitaire",
+            "hearts-card"
         ]
     },
     "carebears": {
@@ -564,7 +555,9 @@
         "collections": [
             "casino-games",
             "casino_games",
-            "multiplayer-casino"
+            "multiplayer-casino",
+            "poker",
+            "blackjack"
         ]
     },
     "castle": {
@@ -732,12 +725,6 @@
             "connect"
         ]
     },
-    "construction": {
-        "iconClass": "",
-        "collections": [
-            "construction-games"
-        ]
-    },
     "cooking": {
         "iconClass": "",
         "collections": [
@@ -801,7 +788,8 @@
     },
     "creation": {
         "iconClass": "",
-        "collections": [
+        "collections": [,
+            "design-games"
             "creation-games"
         ]
     },
@@ -883,24 +871,11 @@
             "decoration-games"
         ]
     },
-    "defense": {
-        "iconClass": "",
-        "collections": [
-            "defense",
-            "defense-games"
-        ]
-    },
     "dentist": {
         "iconClass": "",
         "collections": [
             "dentist",
             "dentist-games"
-        ]
-    },
-    "design": {
-        "iconClass": "",
-        "collections": [
-            "design-games"
         ]
     },
     "dice": {
@@ -956,7 +931,8 @@
             "doll-games",
             "doll_dress_up_games",
             "dolls",
-            "children-games"
+            "children-games",
+            "barbie"
         ]
     },
     "dollhouse": {
@@ -998,7 +974,8 @@
         "iconClass": "",
         "collections": [
             "dress-up",
-            "dress_up"
+            "dress_up",
+             "theme_dress_up_games"
         ]
     },
     "drifting": {
@@ -1015,7 +992,8 @@
         "collections": [
             "driving",
             "driving-games",
-            "vehicles"
+            "vehicles",
+            "wheely"
         ]
     },
     "drum": {
@@ -1095,18 +1073,6 @@
             "european-football-cup"
         ]
     },
-    "exploring": {
-        "iconClass": "",
-        "collections": [
-            "exploring"
-        ]
-    },
-    "extreme": {
-        "iconClass": "",
-        "collections": [
-            "extreme-games"
-        ]
-    },
     "fairy": {
         "iconClass": "",
         "collections": [
@@ -1118,12 +1084,6 @@
         "iconClass": "",
         "collections": [
             "fancy-pants"
-        ]
-    },
-    "fantasy": {
-        "iconClass": "",
-        "collections": [
-            "fantasy-games"
         ]
     },
     "farm": {
@@ -1263,7 +1223,9 @@
     "football": {
         "iconClass": "",
         "collections": [
-            "football-soccer"
+            "football-soccer",
+            "goal-shooting",
+            "goal_shooting"
         ]
     },
     "footballmanagement": {
@@ -1372,13 +1334,6 @@
             "baby_hazel_games"
         ]
     },
-    "goal": {
-        "iconClass": "",
-        "collections": [
-            "goal-shooting",
-            "goal_shooting"
-        ]
-    },
     "golf": {
         "iconClass": "",
         "collections": [
@@ -1423,12 +1378,6 @@
         "iconClass": "",
         "collections": [
             "hard"
-        ]
-    },
-    "hearts": {
-        "iconClass": "",
-        "collections": [
-            "hearts-card"
         ]
     },
     "helicopter": {
@@ -1884,7 +1833,8 @@
             "uphill-racing",
             "uphill-rush-games",
             "uphill_racing",
-            "uphill_rush_games"
+            "uphill_rush_games",
+             "4x4"
         ]
     },
     "onet": {
@@ -2009,12 +1959,6 @@
             "plinga"
         ]
     },
-    "poker": {
-        "iconClass": "",
-        "collections": [
-            "poker"
-        ]
-    },
     "poki": {
         "iconClass": "",
         "collections": [
@@ -2083,12 +2027,6 @@
         "collections": [
             "quiz",
             "quiz-games"
-        ]
-    },
-    "rabbit": {
-        "iconClass": "",
-        "collections": [
-            "rabbit-games"
         ]
     },
     "racing": {
@@ -2294,7 +2232,7 @@
             "singing_games"
         ]
     },
-    "singleplayer": {
+    "1player": {
         "iconClass": "",
         "collections": [
             "singleplayer",
@@ -2544,23 +2482,11 @@
             "sushi-games"
         ]
     },
-    "swimming": {
-        "iconClass": "",
-        "collections": [
-            "swimming-games"
-        ]
-    },
-    "table": {
+    "tennis": {
         "iconClass": "",
         "collections": [
             "table-tennis",
             "table_tennis"
-        ]
-    },
-    "tactical": {
-        "iconClass": "",
-        "collections": [
-            "tactical-games"
         ]
     },
     "tank": {
@@ -2594,18 +2520,6 @@
         "iconClass": "",
         "collections": [
             "thanksgiving-games"
-        ]
-    },
-    "theme": {
-        "iconClass": "",
-        "collections": [
-            "theme_dress_up_games"
-        ]
-    },
-    "third": {
-        "iconClass": "",
-        "collections": [
-            "third-person-shooter"
         ]
     },
     "tic": {
@@ -2686,7 +2600,8 @@
             "unicorn",
             "unicorn-games",
             "pony",
-            "pony-games"
+            "pony-games",
+            "fantasy-games"
         ]
     },
     "unity": {
@@ -2785,12 +2700,6 @@
             "what-we-play"
         ]
     },
-    "wheely": {
-        "iconClass": "",
-        "collections": [
-            "wheely"
-        ]
-    },
     "winter": {
         "iconClass": "",
         "collections": [
@@ -2844,15 +2753,11 @@
         "collections": [
             "zombie",
             "zombie-games",
-            "zombie_games"
-        ]
-    },
-    "zombies": {
-        "iconClass": "",
-        "collections": [
+            "zombie_games",
             "zombies"
         ]
     },
+   
     "zoo": {
         "iconClass": "",
         "collections": [
