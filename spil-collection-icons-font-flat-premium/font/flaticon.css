@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon";
-    src: url("./flaticon.ttf?47a7bef7821d7f90c46d33104a70b46f") format("truetype"),
-url("./flaticon.woff?47a7bef7821d7f90c46d33104a70b46f") format("woff"),
-url("./flaticon.woff2?47a7bef7821d7f90c46d33104a70b46f") format("woff2"),
-url("./flaticon.eot?47a7bef7821d7f90c46d33104a70b46f#iefix") format("embedded-opentype"),
-url("./flaticon.svg?47a7bef7821d7f90c46d33104a70b46f#flaticon") format("svg");
+    src: url("./flaticon.ttf?e4f1c4ced46dda345790a55b8f6d65be") format("truetype"),
+url("./flaticon.woff?e4f1c4ced46dda345790a55b8f6d65be") format("woff"),
+url("./flaticon.woff2?e4f1c4ced46dda345790a55b8f6d65be") format("woff2"),
+url("./flaticon.eot?e4f1c4ced46dda345790a55b8f6d65be#iefix") format("embedded-opentype"),
+url("./flaticon.svg?e4f1c4ced46dda345790a55b8f6d65be#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
@@ -24,558 +24,759 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-10x10:before {
     content: "\f102";
 }
-.flaticon-2d:before {
+.flaticon-1player:before {
     content: "\f103";
 }
-.flaticon-2player:before {
+.flaticon-2d:before {
     content: "\f104";
 }
-.flaticon-3d:before {
+.flaticon-2player:before {
     content: "\f105";
 }
-.flaticon-accessories:before {
+.flaticon-3d:before {
     content: "\f106";
 }
-.flaticon-action:before {
+.flaticon-accessories:before {
     content: "\f107";
 }
-.flaticon-addicting:before {
+.flaticon-action:before {
     content: "\f108";
 }
-.flaticon-adventure:before {
+.flaticon-addicting:before {
     content: "\f109";
 }
-.flaticon-aim:before {
+.flaticon-adventure:before {
     content: "\f10a";
 }
-.flaticon-air-hockey:before {
+.flaticon-aim:before {
     content: "\f10b";
 }
-.flaticon-alien:before {
+.flaticon-air-hockey:before {
     content: "\f10c";
 }
-.flaticon-ambulance:before {
+.flaticon-alien:before {
     content: "\f10d";
 }
-.flaticon-american:before {
+.flaticon-ambulance:before {
     content: "\f10e";
 }
-.flaticon-animal:before {
+.flaticon-american:before {
     content: "\f10f";
 }
-.flaticon-anime:before {
+.flaticon-animal:before {
     content: "\f110";
 }
-.flaticon-arcade:before {
+.flaticon-anime:before {
     content: "\f111";
 }
-.flaticon-archery:before {
+.flaticon-arcade:before {
     content: "\f112";
 }
-.flaticon-army:before {
+.flaticon-archery:before {
     content: "\f113";
 }
-.flaticon-art:before {
+.flaticon-army:before {
     content: "\f114";
 }
-.flaticon-asteroids:before {
+.flaticon-art:before {
     content: "\f115";
 }
-.flaticon-avatar:before {
+.flaticon-asteroids:before {
     content: "\f116";
 }
-.flaticon-award:before {
+.flaticon-autumn:before {
     content: "\f117";
 }
-.flaticon-baby:before {
+.flaticon-avatar:before {
     content: "\f118";
 }
-.flaticon-baking:before {
+.flaticon-award:before {
     content: "\f119";
 }
-.flaticon-ball:before {
+.flaticon-baby:before {
     content: "\f11a";
 }
-.flaticon-balloon:before {
+.flaticon-baking:before {
     content: "\f11b";
 }
-.flaticon-bar:before {
+.flaticon-ball:before {
     content: "\f11c";
 }
-.flaticon-baseball:before {
+.flaticon-balloon:before {
     content: "\f11d";
 }
-.flaticon-basketball:before {
+.flaticon-bar:before {
     content: "\f11e";
 }
-.flaticon-battle:before {
+.flaticon-baseball:before {
     content: "\f11f";
 }
-.flaticon-bedroom:before {
+.flaticon-basketball:before {
     content: "\f120";
 }
-.flaticon-billiards:before {
+.flaticon-battle:before {
     content: "\f121";
 }
-.flaticon-bird:before {
+.flaticon-bedroom:before {
     content: "\f122";
 }
-.flaticon-blood:before {
+.flaticon-billiards:before {
     content: "\f123";
 }
-.flaticon-board:before {
+.flaticon-bingo:before {
     content: "\f124";
 }
-.flaticon-boardcard:before {
+.flaticon-bird:before {
     content: "\f125";
 }
-.flaticon-boat:before {
+.flaticon-birthday:before {
     content: "\f126";
 }
-.flaticon-bomb:before {
+.flaticon-blood:before {
     content: "\f127";
 }
-.flaticon-bowling:before {
+.flaticon-board:before {
     content: "\f128";
 }
-.flaticon-boxing:before {
+.flaticon-boardcard:before {
     content: "\f129";
 }
-.flaticon-boy:before {
+.flaticon-boat:before {
     content: "\f12a";
 }
-.flaticon-brain:before {
+.flaticon-bomb:before {
     content: "\f12b";
 }
-.flaticon-bridge:before {
+.flaticon-bowling:before {
     content: "\f12c";
 }
-.flaticon-browser:before {
+.flaticon-boxing:before {
     content: "\f12d";
 }
-.flaticon-bubble:before {
+.flaticon-boy:before {
     content: "\f12e";
 }
-.flaticon-building:before {
+.flaticon-brain:before {
     content: "\f12f";
 }
-.flaticon-bullet:before {
+.flaticon-bridge:before {
     content: "\f130";
 }
-.flaticon-bunny:before {
+.flaticon-browser:before {
     content: "\f131";
 }
-.flaticon-business:before {
+.flaticon-bubble:before {
     content: "\f132";
 }
-.flaticon-cafe:before {
+.flaticon-building:before {
     content: "\f133";
 }
-.flaticon-cake:before {
+.flaticon-bullet:before {
     content: "\f134";
 }
-.flaticon-candy:before {
+.flaticon-bunny:before {
     content: "\f135";
 }
-.flaticon-cannon:before {
+.flaticon-bus:before {
     content: "\f136";
 }
-.flaticon-car:before {
+.flaticon-business:before {
     content: "\f137";
 }
-.flaticon-carebears:before {
+.flaticon-cafe:before {
     content: "\f138";
 }
-.flaticon-caring:before {
+.flaticon-cake:before {
     content: "\f139";
 }
-.flaticon-cartoon:before {
+.flaticon-candy:before {
     content: "\f13a";
 }
-.flaticon-casino:before {
+.flaticon-cannon:before {
     content: "\f13b";
 }
-.flaticon-casual:before {
+.flaticon-car:before {
     content: "\f13c";
 }
-.flaticon-cat:before {
+.flaticon-carebears:before {
     content: "\f13d";
 }
-.flaticon-chain:before {
+.flaticon-caring:before {
     content: "\f13e";
 }
-.flaticon-chicken:before {
+.flaticon-cartoon:before {
     content: "\f13f";
 }
-.flaticon-christmas:before {
+.flaticon-casino:before {
     content: "\f140";
 }
-.flaticon-circus:before {
+.flaticon-castle:before {
     content: "\f141";
 }
-.flaticon-classic:before {
+.flaticon-casual:before {
     content: "\f142";
 }
-.flaticon-cleaning:before {
+.flaticon-cat:before {
     content: "\f143";
 }
-.flaticon-clicking:before {
+.flaticon-cave:before {
     content: "\f144";
 }
-.flaticon-clothes:before {
+.flaticon-celebrity:before {
     content: "\f145";
 }
-.flaticon-coloredblocks:before {
+.flaticon-chain:before {
     content: "\f146";
 }
-.flaticon-coloring:before {
+.flaticon-checkers:before {
     content: "\f147";
 }
-.flaticon-concentration:before {
+.flaticon-cheese:before {
     content: "\f148";
 }
-.flaticon-connect:before {
+.flaticon-chess:before {
     content: "\f149";
 }
-.flaticon-cooking:before {
+.flaticon-chicken:before {
     content: "\f14a";
 }
-.flaticon-couple:before {
+.flaticon-chinese:before {
     content: "\f14b";
 }
-.flaticon-craft:before {
+.flaticon-christmas:before {
     content: "\f14c";
 }
-.flaticon-crash:before {
+.flaticon-circus:before {
     content: "\f14d";
 }
-.flaticon-crazy:before {
+.flaticon-city:before {
     content: "\f14e";
 }
-.flaticon-crown:before {
+.flaticon-classic:before {
     content: "\f14f";
 }
-.flaticon-cupcake:before {
+.flaticon-cleaning:before {
     content: "\f150";
 }
-.flaticon-cycling:before {
+.flaticon-clicking:before {
     content: "\f151";
 }
-.flaticon-dance:before {
+.flaticon-clothes:before {
     content: "\f152";
 }
-.flaticon-darts:before {
+.flaticon-coloredblocks:before {
     content: "\f153";
 }
-.flaticon-dating:before {
+.flaticon-coloring:before {
     content: "\f154";
 }
-.flaticon-decorating:before {
+.flaticon-concentration:before {
     content: "\f155";
 }
-.flaticon-dentist:before {
+.flaticon-connect:before {
     content: "\f156";
 }
-.flaticon-doctor:before {
+.flaticon-cooking:before {
     content: "\f157";
 }
-.flaticon-dog:before {
+.flaticon-couple:before {
     content: "\f158";
 }
-.flaticon-doll:before {
+.flaticon-craft:before {
     content: "\f159";
 }
-.flaticon-dollhouse:before {
+.flaticon-crash:before {
     content: "\f15a";
 }
-.flaticon-dolphin:before {
+.flaticon-crazy:before {
     content: "\f15b";
 }
-.flaticon-dragon:before {
+.flaticon-creation:before {
     content: "\f15c";
 }
-.flaticon-drawing:before {
+.flaticon-cricket:before {
     content: "\f15d";
 }
-.flaticon-dress:before {
+.flaticon-crime:before {
     content: "\f15e";
 }
-.flaticon-drifting:before {
+.flaticon-crossword:before {
     content: "\f15f";
 }
-.flaticon-driving:before {
+.flaticon-crown:before {
     content: "\f160";
 }
-.flaticon-easy:before {
+.flaticon-cupcake:before {
     content: "\f161";
 }
-.flaticon-educational:before {
+.flaticon-cut:before {
     content: "\f162";
 }
-.flaticon-emmas:before {
+.flaticon-cycling:before {
     content: "\f163";
 }
-.flaticon-escaping:before {
+.flaticon-dance:before {
     content: "\f164";
 }
-.flaticon-farm:before {
+.flaticon-darts:before {
     content: "\f165";
 }
-.flaticon-fashion:before {
+.flaticon-dating:before {
     content: "\f166";
 }
-.flaticon-fighting:before {
+.flaticon-decorating:before {
     content: "\f167";
 }
-.flaticon-fish:before {
+.flaticon-dentist:before {
     content: "\f168";
 }
-.flaticon-fishing:before {
+.flaticon-dinosaur:before {
     content: "\f169";
 }
-.flaticon-flash:before {
+.flaticon-doctor:before {
     content: "\f16a";
 }
-.flaticon-flight:before {
+.flaticon-dodgeball:before {
     content: "\f16b";
 }
-.flaticon-flip:before {
+.flaticon-dog:before {
     content: "\f16c";
 }
-.flaticon-flirting:before {
+.flaticon-doll:before {
     content: "\f16d";
 }
-.flaticon-flower:before {
+.flaticon-dollhouse:before {
     content: "\f16e";
 }
-.flaticon-flying:before {
+.flaticon-dolphin:before {
     content: "\f16f";
 }
-.flaticon-food:before {
+.flaticon-dominoes:before {
     content: "\f170";
 }
-.flaticon-footballmanagement:before {
+.flaticon-dragon:before {
     content: "\f171";
 }
-.flaticon-fps:before {
+.flaticon-drawing:before {
     content: "\f172";
 }
-.flaticon-fruit:before {
+.flaticon-dress:before {
     content: "\f173";
 }
-.flaticon-fun:before {
+.flaticon-drifting:before {
     content: "\f174";
 }
-.flaticon-games:before {
+.flaticon-driving:before {
     content: "\f175";
 }
-.flaticon-garden:before {
+.flaticon-drum:before {
     content: "\f176";
 }
-.flaticon-girls:before {
+.flaticon-duck:before {
     content: "\f177";
 }
-.flaticon-golf:before {
+.flaticon-easter:before {
     content: "\f178";
 }
-.flaticon-guitar:before {
+.flaticon-easy:before {
     content: "\f179";
 }
-.flaticon-gun:before {
+.flaticon-educational:before {
     content: "\f17a";
 }
-.flaticon-hair:before {
+.flaticon-elevator:before {
     content: "\f17b";
 }
-.flaticon-hamster:before {
+.flaticon-emmas:before {
     content: "\f17c";
 }
-.flaticon-highscore:before {
+.flaticon-emoji:before {
     content: "\f17d";
 }
-.flaticon-horse:before {
+.flaticon-empire:before {
     content: "\f17e";
 }
-.flaticon-hospital:before {
+.flaticon-escaping:before {
     content: "\f17f";
 }
-.flaticon-hotel:before {
+.flaticon-fairy:before {
     content: "\f180";
 }
-.flaticon-house:before {
+.flaticon-fancy:before {
     content: "\f181";
 }
-.flaticon-html5:before {
+.flaticon-farm:before {
     content: "\f182";
 }
-.flaticon-hunting:before {
+.flaticon-fashion:before {
     content: "\f183";
 }
-.flaticon-jewel:before {
+.flaticon-fighting:before {
     content: "\f184";
 }
-.flaticon-jumping:before {
+.flaticon-fire:before {
     content: "\f185";
 }
-.flaticon-kissing:before {
+.flaticon-fish:before {
     content: "\f186";
 }
-.flaticon-kitchen:before {
+.flaticon-fishing:before {
     content: "\f187";
 }
-.flaticon-lineracing:before {
+.flaticon-flash:before {
     content: "\f188";
 }
-.flaticon-logic:before {
+.flaticon-flight:before {
     content: "\f189";
 }
-.flaticon-love:before {
+.flaticon-flip:before {
     content: "\f18a";
 }
-.flaticon-magic:before {
+.flaticon-flirting:before {
     content: "\f18b";
 }
-.flaticon-mahjong:before {
+.flaticon-flower:before {
     content: "\f18c";
 }
-.flaticon-makeover:before {
+.flaticon-flying:before {
     content: "\f18d";
 }
-.flaticon-math:before {
+.flaticon-food:before {
     content: "\f18e";
 }
-.flaticon-memo:before {
+.flaticon-foosball:before {
     content: "\f18f";
 }
-.flaticon-mobile:before {
+.flaticon-football:before {
     content: "\f190";
 }
-.flaticon-motocross:before {
+.flaticon-footballmanagement:before {
     content: "\f191";
 }
-.flaticon-multiplayer:before {
+.flaticon-fps:before {
     content: "\f192";
 }
-.flaticon-music:before {
+.flaticon-fruit:before {
     content: "\f193";
 }
-.flaticon-mystery:before {
+.flaticon-fun:before {
     content: "\f194";
 }
-.flaticon-nail:before {
+.flaticon-games:before {
     content: "\f195";
 }
-.flaticon-offroad:before {
+.flaticon-garden:before {
     content: "\f196";
 }
-.flaticon-panda:before {
+.flaticon-girls:before {
     content: "\f197";
 }
-.flaticon-parking:before {
+.flaticon-golf:before {
     content: "\f198";
 }
-.flaticon-party:before {
+.flaticon-guitar:before {
     content: "\f199";
 }
-.flaticon-piano:before {
+.flaticon-gun:before {
     content: "\f19a";
 }
-.flaticon-pizza:before {
+.flaticon-hair:before {
     content: "\f19b";
 }
-.flaticon-platform:before {
+.flaticon-hamster:before {
     content: "\f19c";
 }
-.flaticon-premium:before {
+.flaticon-helicopter:before {
     content: "\f19d";
 }
-.flaticon-puppy:before {
+.flaticon-helix:before {
     content: "\f19e";
 }
-.flaticon-puzzle:before {
+.flaticon-highscore:before {
     content: "\f19f";
 }
-.flaticon-quiz:before {
+.flaticon-horse:before {
     content: "\f1a0";
 }
-.flaticon-racing:before {
+.flaticon-hospital:before {
     content: "\f1a1";
 }
-.flaticon-restaurant:before {
+.flaticon-hotel:before {
     content: "\f1a2";
 }
-.flaticon-robot:before {
+.flaticon-house:before {
     content: "\f1a3";
 }
-.flaticon-roller:before {
+.flaticon-html5:before {
     content: "\f1a4";
 }
-.flaticon-room:before {
+.flaticon-hunting:before {
     content: "\f1a5";
 }
-.flaticon-scary:before {
+.flaticon-jewel:before {
     content: "\f1a6";
 }
-.flaticon-school:before {
+.flaticon-jumping:before {
     content: "\f1a7";
 }
-.flaticon-shop:before {
+.flaticon-kissing:before {
     content: "\f1a8";
 }
-.flaticon-snail:before {
+.flaticon-kitchen:before {
     content: "\f1a9";
 }
-.flaticon-soccer:before {
+.flaticon-lineracing:before {
     content: "\f1aa";
 }
-.flaticon-social:before {
+.flaticon-logic:before {
     content: "\f1ab";
 }
-.flaticon-spa:before {
+.flaticon-love:before {
     content: "\f1ac";
 }
-.flaticon-space:before {
+.flaticon-magic:before {
     content: "\f1ad";
 }
-.flaticon-spelling:before {
+.flaticon-mahjong:before {
     content: "\f1ae";
 }
-.flaticon-sportoutfit:before {
+.flaticon-makeover:before {
     content: "\f1af";
 }
-.flaticon-stickman:before {
+.flaticon-math:before {
     content: "\f1b0";
 }
-.flaticon-surgery:before {
+.flaticon-memo:before {
     content: "\f1b1";
 }
-.flaticon-sushi:before {
+.flaticon-mobile:before {
     content: "\f1b2";
 }
-.flaticon-time:before {
+.flaticon-motocross:before {
     content: "\f1b3";
 }
-.flaticon-top100:before {
+.flaticon-multiplayer:before {
     content: "\f1b4";
 }
-.flaticon-typing:before {
+.flaticon-music:before {
     content: "\f1b5";
 }
-.flaticon-unicorn:before {
+.flaticon-mystery:before {
     content: "\f1b6";
 }
-.flaticon-valentines:before {
+.flaticon-nail:before {
     content: "\f1b7";
 }
-.flaticon-war:before {
+.flaticon-offroad:before {
     content: "\f1b8";
 }
-.flaticon-water:before {
+.flaticon-paintball:before {
     content: "\f1b9";
 }
-.flaticon-wedding:before {
+.flaticon-panda:before {
     content: "\f1ba";
 }
-.flaticon-winter:before {
+.flaticon-parking:before {
     content: "\f1bb";
+}
+.flaticon-party:before {
+    content: "\f1bc";
+}
+.flaticon-physics:before {
+    content: "\f1bd";
+}
+.flaticon-piano:before {
+    content: "\f1be";
+}
+.flaticon-pig:before {
+    content: "\f1bf";
+}
+.flaticon-pinball:before {
+    content: "\f1c0";
+}
+.flaticon-pirate:before {
+    content: "\f1c1";
+}
+.flaticon-pixel:before {
+    content: "\f1c2";
+}
+.flaticon-pizza:before {
+    content: "\f1c3";
+}
+.flaticon-platform:before {
+    content: "\f1c4";
+}
+.flaticon-police:before {
+    content: "\f1c5";
+}
+.flaticon-premium:before {
+    content: "\f1c6";
+}
+.flaticon-puppy:before {
+    content: "\f1c7";
+}
+.flaticon-puzzle:before {
+    content: "\f1c8";
+}
+.flaticon-quiz:before {
+    content: "\f1c9";
+}
+.flaticon-racing:before {
+    content: "\f1ca";
+}
+.flaticon-restaurant:before {
+    content: "\f1cb";
+}
+.flaticon-robot:before {
+    content: "\f1cc";
+}
+.flaticon-roller:before {
+    content: "\f1cd";
+}
+.flaticon-room:before {
+    content: "\f1ce";
+}
+.flaticon-scary:before {
+    content: "\f1cf";
+}
+.flaticon-school:before {
+    content: "\f1d0";
+}
+.flaticon-shop:before {
+    content: "\f1d1";
+}
+.flaticon-snail:before {
+    content: "\f1d2";
+}
+.flaticon-soccer:before {
+    content: "\f1d3";
+}
+.flaticon-social:before {
+    content: "\f1d4";
+}
+.flaticon-spa:before {
+    content: "\f1d5";
+}
+.flaticon-space:before {
+    content: "\f1d6";
+}
+.flaticon-spelling:before {
+    content: "\f1d7";
+}
+.flaticon-sportoutfit:before {
+    content: "\f1d8";
+}
+.flaticon-stickman:before {
+    content: "\f1d9";
+}
+.flaticon-sudoku:before {
+    content: "\f1da";
+}
+.flaticon-summer:before {
+    content: "\f1db";
+}
+.flaticon-superhero:before {
+    content: "\f1dc";
+}
+.flaticon-surfing:before {
+    content: "\f1dd";
+}
+.flaticon-surgery:before {
+    content: "\f1de";
+}
+.flaticon-survival:before {
+    content: "\f1df";
+}
+.flaticon-sushi:before {
+    content: "\f1e0";
+}
+.flaticon-tank:before {
+    content: "\f1e1";
+}
+.flaticon-tattoo:before {
+    content: "\f1e2";
+}
+.flaticon-taxi:before {
+    content: "\f1e3";
+}
+.flaticon-tennis:before {
+    content: "\f1e4";
+}
+.flaticon-thanksgiving:before {
+    content: "\f1e5";
+}
+.flaticon-time:before {
+    content: "\f1e6";
+}
+.flaticon-top100:before {
+    content: "\f1e7";
+}
+.flaticon-typing:before {
+    content: "\f1e8";
+}
+.flaticon-unicorn:before {
+    content: "\f1e9";
+}
+.flaticon-upgrade:before {
+    content: "\f1ea";
+}
+.flaticon-valentines:before {
+    content: "\f1eb";
+}
+.flaticon-vampire:before {
+    content: "\f1ec";
+}
+.flaticon-vet:before {
+    content: "\f1ed";
+}
+.flaticon-videos:before {
+    content: "\f1ee";
+}
+.flaticon-volleyball:before {
+    content: "\f1ef";
+}
+.flaticon-voodoo:before {
+    content: "\f1f0";
+}
+.flaticon-war:before {
+    content: "\f1f1";
+}
+.flaticon-warrior:before {
+    content: "\f1f2";
+}
+.flaticon-water:before {
+    content: "\f1f3";
+}
+.flaticon-wedding:before {
+    content: "\f1f4";
+}
+.flaticon-weird:before {
+    content: "\f1f5";
+}
+.flaticon-what:before {
+    content: "\f1f6";
+}
+.flaticon-winter:before {
+    content: "\f1f7";
+}
+.flaticon-witch:before {
+    content: "\f1f8";
+}
+.flaticon-world:before {
+    content: "\f1f9";
+}
+.flaticon-worm:before {
+    content: "\f1fa";
+}
+.flaticon-wreck:before {
+    content: "\f1fb";
+}
+.flaticon-wrestling:before {
+    content: "\f1fc";
+}
+.flaticon-zombie:before {
+    content: "\f1fd";
+}
+.flaticon-zoo:before {
+    content: "\f1fe";
 }
