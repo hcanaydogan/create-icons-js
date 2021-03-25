@@ -1599,13 +1599,6 @@
             "killing"
         ]
     },
-    "king": {
-        "iconClass": "",
-        "collections": [
-            "king",
-            "king-games"
-        ]
-    },
     "kissing": {
         "iconClass": "",
         "collections": [
@@ -2058,7 +2051,9 @@
         "collections": [
             "princess",
             "princess-juliet",
-            "queen-games"
+            "queen-games",
+            "king",
+            "king-games"
         ]
     },
     "puppy": {

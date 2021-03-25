@@ -2,11 +2,11 @@ $flaticon-font: "flaticon";
 
 @font-face {
     font-family: $flaticon-font;
-    src: url("./flaticon.ttf?f5f3420300f93d7d50cedde5d8c8f853") format("truetype"),
-url("./flaticon.woff?f5f3420300f93d7d50cedde5d8c8f853") format("woff"),
-url("./flaticon.woff2?f5f3420300f93d7d50cedde5d8c8f853") format("woff2"),
-url("./flaticon.eot?f5f3420300f93d7d50cedde5d8c8f853#iefix") format("embedded-opentype"),
-url("./flaticon.svg?f5f3420300f93d7d50cedde5d8c8f853#flaticon") format("svg");
+    src: url("./flaticon.ttf?6ada69a186ec3b5927a34ae80d48d7f9") format("truetype"),
+url("./flaticon.woff?6ada69a186ec3b5927a34ae80d48d7f9") format("woff"),
+url("./flaticon.woff2?6ada69a186ec3b5927a34ae80d48d7f9") format("woff2"),
+url("./flaticon.eot?6ada69a186ec3b5927a34ae80d48d7f9#iefix") format("embedded-opentype"),
+url("./flaticon.svg?6ada69a186ec3b5927a34ae80d48d7f9#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
@@ -177,36 +177,37 @@ $flaticon-map: (
     "pizza": "\f19a",
     "platform": "\f19b",
     "premium": "\f19c",
-    "puppy": "\f19d",
-    "puzzle": "\f19e",
-    "quiz": "\f19f",
-    "racing": "\f1a0",
-    "restaurant": "\f1a1",
-    "robot": "\f1a2",
-    "roller": "\f1a3",
-    "room": "\f1a4",
-    "scary": "\f1a5",
-    "school": "\f1a6",
-    "shop": "\f1a7",
-    "snail": "\f1a8",
-    "soccer": "\f1a9",
-    "social": "\f1aa",
-    "spa": "\f1ab",
-    "space": "\f1ac",
-    "spelling": "\f1ad",
-    "sportoutfit": "\f1ae",
-    "stickman": "\f1af",
-    "surgery": "\f1b0",
-    "sushi": "\f1b1",
-    "time": "\f1b2",
-    "top100": "\f1b3",
-    "typing": "\f1b4",
-    "unicorn": "\f1b5",
-    "valentines": "\f1b6",
-    "war": "\f1b7",
-    "water": "\f1b8",
-    "wedding": "\f1b9",
-    "winter": "\f1ba",
+    "princess": "\f19d",
+    "puppy": "\f19e",
+    "puzzle": "\f19f",
+    "quiz": "\f1a0",
+    "racing": "\f1a1",
+    "restaurant": "\f1a2",
+    "robot": "\f1a3",
+    "roller": "\f1a4",
+    "room": "\f1a5",
+    "scary": "\f1a6",
+    "school": "\f1a7",
+    "shop": "\f1a8",
+    "snail": "\f1a9",
+    "soccer": "\f1aa",
+    "social": "\f1ab",
+    "spa": "\f1ac",
+    "space": "\f1ad",
+    "spelling": "\f1ae",
+    "sportoutfit": "\f1af",
+    "stickman": "\f1b0",
+    "surgery": "\f1b1",
+    "sushi": "\f1b2",
+    "time": "\f1b3",
+    "top100": "\f1b4",
+    "typing": "\f1b5",
+    "unicorn": "\f1b6",
+    "valentines": "\f1b7",
+    "war": "\f1b8",
+    "water": "\f1b9",
+    "wedding": "\f1ba",
+    "winter": "\f1bb",
 );
 
 .flaticon-1001:before {
@@ -676,6 +677,9 @@ $flaticon-map: (
 }
 .flaticon-premium:before {
     content: map-get($flaticon-map, "premium");
+}
+.flaticon-princess:before {
+    content: map-get($flaticon-map, "princess");
 }
 .flaticon-puppy:before {
     content: map-get($flaticon-map, "puppy");
