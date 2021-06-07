@@ -1469,12 +1469,17 @@
             "sniper_games"
         ]
     },
-    "icecream": {
+    "ice": {
+        "iconClass": "",
+        "collections": [
+            "ice-games"
+        ]
+    },
+    "ice-cream": {
         "iconClass": "",
         "collections": [
             "ice-cream",
-            "ice-cream-games",
-            "ice-games"
+            "ice-cream-games"
         ]
     },
     "idea": {
