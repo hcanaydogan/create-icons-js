@@ -726,12 +726,6 @@
             "cool-games"
         ]
     },
-    "coolmath": {
-        "iconClass": "",
-        "collections": [
-            "coolmath-games"
-        ]
-    },
     "copa": {
         "iconClass": "",
         "collections": [
@@ -1284,7 +1278,8 @@
             "coolmath-games",
             "friv-games",
             "armorgames",
-            "play-games-stay-safe"
+            "play-games-stay-safe",
+            "plinga"
         ]
     },
     "games79832780321780": {
@@ -1655,7 +1650,8 @@
     "math": {
         "iconClass": "",
         "collections": [
-            "math"
+            "math",
+            "number-games"
         ]
     },
     "maze": {
@@ -1817,12 +1813,6 @@
             "nitrome-games"
         ]
     },
-    "number": {
-        "iconClass": "",
-        "collections": [
-            "number-games"
-        ]
-    },
     "office": {
         "iconClass": "",
         "collections": [
@@ -1954,12 +1944,6 @@
         "iconClass": "",
         "collections": [
             "platform_games"
-        ]
-    },
-    "plinga": {
-        "iconClass": "",
-        "collections": [
-            "plinga"
         ]
     },
     "poki": {
