@@ -204,19 +204,6 @@
             "asteroids"
         ]
     },
-    "athletics": {
-        "iconClass": "",
-        "collections": [
-            "athletics",
-            "endless-running",
-            "running",
-            "running-games",
-            "avoiding",
-            "subway-surfers",
-            "sports",
-            "sports-heads"
-        ]
-    },
     "autumn": {
         "iconClass": "",
         "collections": [
@@ -1239,7 +1226,9 @@
         "collections": [
             "fps",
             "first-person-shooter",
-            "top-down-shooter"
+            "top-down-shooter",
+            "shooting",
+            "shooting-games"
         ]
     },
     "freecell": {
@@ -1525,7 +1514,15 @@
     "jumping": {
         "iconClass": "",
         "collections": [
-            "jumping"
+            "jumping",
+            "athletics",
+            "endless-running",
+            "running",
+            "running-games",
+            "avoiding",
+            "subway-surfers",
+            "sports",
+            "sports-heads"
         ]
     },
     "karate": {
@@ -1716,7 +1713,8 @@
         "iconClass": "",
         "collections": [
             "mobile_games",
-            "mobile__tablet_games"
+            "mobile__tablet_games",
+            "smartphone-games"
         ]
     },
     "money": {
@@ -2203,13 +2201,6 @@
             "shoot__throw"
         ]
     },
-    "shooting": {
-        "iconClass": "",
-        "collections": [
-            "shooting",
-            "shooting-games"
-        ]
-    },
     "shop": {
         "iconClass": "",
         "collections": [
@@ -2269,12 +2260,6 @@
         "collections": [
             "slot-machine-games",
             "slot-machines"
-        ]
-    },
-    "smartphone": {
-        "iconClass": "",
-        "collections": [
-            "smartphone-games"
         ]
     },
     "snail": {
@@ -2448,16 +2433,11 @@
             "summer_games"
         ]
     },
-    "super": {
-        "iconClass": "",
-        "collections": [
-            "super-heroes"
-        ]
-    },
     "superhero": {
         "iconClass": "",
         "collections": [
-            "superhero-games"
+            "superhero-games",
+            "super-heroes"
         ]
     },
     "surfing": {
