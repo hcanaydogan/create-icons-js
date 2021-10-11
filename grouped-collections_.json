@@ -1853,12 +1853,6 @@
             "open-world-games"
         ]
     },
-    "operate": {
-        "iconClass": "",
-        "collections": [
-            "operate-now-games"
-        ]
-    },
     "paintball": {
         "iconClass": "",
         "collections": [
@@ -2445,7 +2439,8 @@
         "collections": [
             "surgery",
             "surgery-games",
-            "surgery_games"
+            "surgery_games",
+            "operate-now-games"
         ]
     },
     "survival": {

@@ -233,7 +233,7 @@
             summer: (content: unicode(eada), classes:("summer-games", "summer_dress_up_games", "summer_games")),
             superhero: (content: unicode(eadb), classes:("superhero-games", "super-heroes")),
             surfing: (content: unicode(eadc), classes:("surfing-games")),
-            surgery: (content: unicode(eadd), classes:("surgery", "surgery-games", "surgery_games")),
+            surgery: (content: unicode(eadd), classes:("surgery", "surgery-games", "surgery_games", "operate-now-games")),
             survival: (content: unicode(eade), classes:("survival-games")),
             sushi: (content: unicode(eadf), classes:("sushi", "sushi-games")),
             tank: (content: unicode(eae0), classes:("tank", "tank-games")),
