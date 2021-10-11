@@ -25,9 +25,7 @@
     "10x10": {
         "iconClass": "",
         "collections": [
-            "10x10",
-            "io",
-            "io-games"
+            "10x10"
         ]
     },
     "2d": {
@@ -89,7 +87,7 @@
             "aim__shoot"
         ]
     },
-    "air-hockey": {
+    "airhockey": {
         "iconClass": "",
         "collections": [
             "air-hockey",
@@ -1222,7 +1220,8 @@
             "first-person-shooter",
             "top-down-shooter",
             "shooting",
-            "shooting-games"
+            "shooting-games",
+            "shoot-em-up"
         ]
     },
     "freecell": {
@@ -1459,7 +1458,7 @@
             "ice-games"
         ]
     },
-    "ice-cream": {
+    "icecream": {
         "iconClass": "",
         "collections": [
             "ice-cream",
@@ -1477,6 +1476,13 @@
         "collections": [
             "idle",
             "idle-games"
+        ]
+    },
+    "invaders": {
+        "iconClass": "",
+        "collections": [
+            "space-invaders",
+            "space_invaders"
         ]
     },
     "io": {
@@ -1650,8 +1656,7 @@
     "math": {
         "iconClass": "",
         "collections": [
-            "math",
-            "number-games"
+            "math"
         ]
     },
     "maze": {
@@ -1811,6 +1816,12 @@
         "iconClass": "",
         "collections": [
             "nitrome-games"
+        ]
+    },
+    "number": {
+        "iconClass": "",
+        "collections": [
+            "number-games"
         ]
     },
     "office": {
@@ -2105,7 +2116,7 @@
             "rugby"
         ]
     },
-    "run": {
+    "runshoot": {
         "iconClass": "",
         "collections": [
             "run--shoot",
@@ -2177,11 +2188,10 @@
             "ship-games"
         ]
     },
-    "shoot": {
+    "shootthrow": {
         "iconClass": "",
         "collections": [
             "shoot--throw",
-            "shoot-em-up",
             "shoot__throw"
         ]
     },
