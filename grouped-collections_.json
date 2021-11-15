@@ -1,43 +1,34 @@
 {
     "2player": {
-        "iconClass": "",
         "collections": [
             "2player",
             "2-player",
             "tap"
         ]
     },
-
     "1001": {
-        "iconClass": "",
         "collections": [
             "1001-arabian-nights-games",
             "1001_arabian_nights_games"
         ]
     },
     "2048": {
-        "iconClass": "",
         "collections": [
             "2048",
             "2048-games"
         ]
     },
     "10x10": {
-        "iconClass": "",
         "collections": [
-            "10x10",
-            "io",
-            "io-games"
+            "10x10"
         ]
     },
     "2d": {
-        "iconClass": "",
         "collections": [
             "2d"
         ]
     },
     "3d": {
-        "iconClass": "",
         "collections": [
             "3d",
             "3d-games",
@@ -48,14 +39,12 @@
         ]
     },
     "accessories": {
-        "iconClass": "",
         "collections": [
             "accessories-dress-up",
             "accessories_dress_up_games"
         ]
     },
     "action": {
-        "iconClass": "",
         "collections": [
             "action",
             "action-arcade",
@@ -64,66 +53,56 @@
         ]
     },
     "adam": {
-        "iconClass": "",
         "collections": [
             "adam-and-eve"
         ]
     },
     "addicting": {
-        "iconClass": "",
         "collections": [
             "addicting-games"
         ]
     },
     "adventure": {
-        "iconClass": "",
         "collections": [
             "adventure",
             "exploring"
         ]
     },
     "aim": {
-        "iconClass": "",
         "collections": [
             "aim--shoot",
             "aim__shoot"
         ]
     },
-    "air-hockey": {
-        "iconClass": "",
+    "airhockey": {
         "collections": [
             "air-hockey",
             "air_hockey"
         ]
     },
     "airplane": {
-        "iconClass": "",
         "collections": [
             "airplane"
         ]
     },
     "alien": {
-        "iconClass": "",
         "collections": [
             "alien",
             "alien-games"
         ]
     },
     "all": {
-        "iconClass": "",
         "collections": [
             "all"
         ]
     },
     "ambulance": {
-        "iconClass": "",
         "collections": [
             "ambulance",
             "ambulance-games"
         ]
     },
     "american": {
-        "iconClass": "",
         "collections": [
             "american-football",
             "american-football-games",
@@ -131,7 +110,6 @@
         ]
     },
     "animal": {
-        "iconClass": "",
         "collections": [
             "animal",
             "animal-games",
@@ -143,7 +121,6 @@
         ]
     },
     "anime": {
-        "iconClass": "",
         "collections": [
             "anime",
             "anime-and-manga-games",
@@ -152,46 +129,39 @@
         ]
     },
     "apps": {
-        "iconClass": "",
         "collections": [
             "apps"
         ]
     },
     "arcade": {
-        "iconClass": "",
         "collections": [
             "arcade",
             "arcade-games"
         ]
     },
     "archery": {
-        "iconClass": "",
         "collections": [
             "archery",
             "arrow"
         ]
     },
     "armor": {
-        "iconClass": "",
         "collections": [
             "armor"
         ]
     },
     "armorgames": {
-        "iconClass": "",
         "collections": [
             "armorgames"
         ]
     },
     "army": {
-        "iconClass": "",
         "collections": [
             "army",
             "army-games"
         ]
     },
     "art": {
-        "iconClass": "",
         "collections": [
             "art-and-creativity",
             "art-games",
@@ -199,33 +169,17 @@
         ]
     },
     "asteroids": {
-        "iconClass": "",
         "collections": [
             "asteroids"
         ]
     },
-    "athletics": {
-        "iconClass": "",
-        "collections": [
-            "athletics",
-            "endless-running",
-            "running",
-            "running-games",
-            "avoiding",
-            "subway-surfers",
-            "sports",
-            "sports-heads"
-        ]
-    },
     "autumn": {
-        "iconClass": "",
         "collections": [
             "autumn",
             "autumn-games"
         ]
     },
     "avatar": {
-        "iconClass": "",
         "collections": [
             "avatar-games",
             "avatar_games",
@@ -235,7 +189,6 @@
         ]
     },
     "award": {
-        "iconClass": "",
         "collections": [
             "award-games",
             "award_games",
@@ -249,7 +202,6 @@
         ]
     },
     "baby": {
-        "iconClass": "",
         "collections": [
             "baby",
             "baby-games",
@@ -257,44 +209,37 @@
         ]
     },
     "baking": {
-        "iconClass": "",
         "collections": [
             "baking"
         ]
     },
     "ball": {
-        "iconClass": "",
         "collections": [
             "ball",
             "ball-games"
         ]
     },
     "balloon": {
-        "iconClass": "",
         "collections": [
             "balloon-games"
         ]
     },
     "bar": {
-        "iconClass": "",
         "collections": [
             "bar-games"
         ]
     },
     "baseball": {
-        "iconClass": "",
         "collections": [
             "baseball"
         ]
     },
     "basketball": {
-        "iconClass": "",
         "collections": [
             "basketball"
         ]
     },
     "battle": {
-        "iconClass": "",
         "collections": [
             "battle",
             "defense",
@@ -302,25 +247,21 @@
         ]
     },
     "beach": {
-        "iconClass": "",
         "collections": [
             "beach-games"
         ]
     },
     "bedroom": {
-        "iconClass": "",
         "collections": [
             "bedroom_makeover_games"
         ]
     },
     "bejeweled": {
-        "iconClass": "",
         "collections": [
             "bejeweled"
         ]
     },
     "billiards": {
-        "iconClass": "",
         "collections": [
             "billiards",
             "snooker",
@@ -328,13 +269,11 @@
         ]
     },
     "bingo": {
-        "iconClass": "",
         "collections": [
             "bingo-games"
         ]
     },
     "bird": {
-        "iconClass": "",
         "collections": [
             "bird-games",
             "penguin-games",
@@ -344,26 +283,22 @@
         ]
     },
     "birthday": {
-        "iconClass": "",
         "collections": [
             "birthday-games"
         ]
     },
     "blood": {
-        "iconClass": "",
         "collections": [
             "blood-games"
         ]
     },
     "bmx": {
-        "iconClass": "",
         "collections": [
             "bmx",
             "bmx_games"
         ]
     },
     "board": {
-        "iconClass": "",
         "collections": [
             "board",
             "strategy",
@@ -372,7 +307,6 @@
         ]
     },
     "boardcard": {
-        "iconClass": "",
         "collections": [
             "board--card",
             "board__card",
@@ -382,7 +316,6 @@
         ]
     },
     "boat": {
-        "iconClass": "",
         "collections": [
             "boat-games",
             "boat-racing",
@@ -390,13 +323,11 @@
         ]
     },
     "bob": {
-        "iconClass": "",
         "collections": [
             "bob-the-robber"
         ]
     },
     "bomb": {
-        "iconClass": "",
         "collections": [
             "bomb-games",
             "bomb-it",
@@ -405,52 +336,44 @@
         ]
     },
     "bowling": {
-        "iconClass": "",
         "collections": [
             "bowling"
         ]
     },
     "boxing": {
-        "iconClass": "",
         "collections": [
             "boxing"
         ]
     },
     "boy": {
-        "iconClass": "",
         "collections": [
             "boy-dress-up-games",
             "boy-games"
         ]
     },
     "brain": {
-        "iconClass": "",
         "collections": [
             "brain",
             "brain-games"
         ]
     },
     "bridge": {
-        "iconClass": "",
         "collections": [
             "bridge-games"
         ]
     },
     "browser": {
-        "iconClass": "",
         "collections": [
             "browser"
         ]
     },
     "bubble": {
-        "iconClass": "",
         "collections": [
             "bubble-shooter",
             "bubble_shooter"
         ]
     },
     "building": {
-        "iconClass": "",
         "collections": [
             "building",
             "building-games",
@@ -458,64 +381,54 @@
         ]
     },
     "bullet": {
-        "iconClass": "",
         "collections": [
             "bullet-hell"
         ]
     },
     "bunny": {
-        "iconClass": "",
         "collections": [
             "bunny-games",
             "rabbit-games"
         ]
     },
     "bus": {
-        "iconClass": "",
         "collections": [
             "bus"
         ]
     },
     "business": {
-        "iconClass": "",
         "collections": [
             "business-games"
         ]
     },
     "cafe": {
-        "iconClass": "",
         "collections": [
             "cafe-games"
         ]
     },
     "cake": {
-        "iconClass": "",
         "collections": [
             "cake",
             "cake-games"
         ]
     },
     "candy": {
-        "iconClass": "",
         "collections": [
             "candy",
             "back-to-candyland"
         ]
     },
     "cannon": {
-        "iconClass": "",
         "collections": [
             "cannon-games"
         ]
     },
     "car": {
-        "iconClass": "",
         "collections": [
             "car-games"
         ]
     },
     "card": {
-        "iconClass": "",
         "collections": [
             "card-games",
             "card-solitaire",
@@ -525,25 +438,21 @@
         ]
     },
     "carebears": {
-        "iconClass": "",
         "collections": [
             "care_bears"
         ]
     },
     "caring": {
-        "iconClass": "",
         "collections": [
             "caring"
         ]
     },
     "cars": {
-        "iconClass": "",
         "collections": [
             "cars"
         ]
     },
     "cartoon": {
-        "iconClass": "",
         "collections": [
             "cartoon-games",
             "kids",
@@ -551,7 +460,6 @@
         ]
     },
     "casino": {
-        "iconClass": "",
         "collections": [
             "casino-games",
             "casino_games",
@@ -561,19 +469,16 @@
         ]
     },
     "castle": {
-        "iconClass": "",
         "collections": [
             "castle-games"
         ]
     },
     "casual": {
-        "iconClass": "",
         "collections": [
             "casual_dress_up_games"
         ]
     },
     "cat": {
-        "iconClass": "",
         "collections": [
             "cat",
             "cat-games",
@@ -581,13 +486,11 @@
         ]
     },
     "cave": {
-        "iconClass": "",
         "collections": [
             "cave"
         ]
     },
     "celebrity": {
-        "iconClass": "",
         "collections": [
             "celebrity",
             "celebrity-games",
@@ -595,44 +498,37 @@
         ]
     },
     "chain": {
-        "iconClass": "",
         "collections": [
             "chain-reaction",
             "chain_reaction"
         ]
     },
     "checkers": {
-        "iconClass": "",
         "collections": [
             "checkers"
         ]
     },
     "cheese": {
-        "iconClass": "",
         "collections": [
             "cheese"
         ]
     },
     "chess": {
-        "iconClass": "",
         "collections": [
             "chess"
         ]
     },
     "chicken": {
-        "iconClass": "",
         "collections": [
             "chicken-games"
         ]
     },
     "chinese": {
-        "iconClass": "",
         "collections": [
             "chinese-games"
         ]
     },
     "christmas": {
-        "iconClass": "",
         "collections": [
             "christmas",
             "christmas_games",
@@ -640,13 +536,11 @@
         ]
     },
     "circus": {
-        "iconClass": "",
         "collections": [
             "circus-games"
         ]
     },
     "city": {
-        "iconClass": "",
         "collections": [
             "city",
             "city-building",
@@ -654,79 +548,66 @@
         ]
     },
     "classic": {
-        "iconClass": "",
         "collections": [
             "classic-games"
         ]
     },
     "cleaning": {
-        "iconClass": "",
         "collections": [
             "cleaning",
             "cleaning-games"
         ]
     },
     "clicking": {
-        "iconClass": "",
         "collections": [
             "clicking-games",
             "clicker",
             "mouse-games",
             "point--click",
             "point__click"
-
-
         ]
     },
     "clothes": {
-        "iconClass": "",
         "collections": [
             "clothes",
             "clothes-games"
         ]
     },
     "collect": {
-        "iconClass": "",
         "collections": [
             "collect--run",
             "collect__run"
         ]
     },
     "coloredblocks": {
-        "iconClass": "",
         "collections": [
             "colored_blocks",
             "coloured-blocks"
         ]
     },
     "coloring": {
-        "iconClass": "",
         "collections": [
             "coloring",
             "coloring-games"
         ]
     },
     "company": {
-        "iconClass": "",
         "collections": [
             "company"
         ]
     },
     "concentration": {
-        "iconClass": "",
         "collections": [
             "concentration",
             "detective-games"
         ]
     },
     "connect": {
-        "iconClass": "",
         "collections": [
             "connect"
         ]
     },
     "cooking": {
-        "iconClass": "",
         "collections": [
             "cooking",
             "saras-cooking-class-games",
@@ -734,25 +615,16 @@
         ]
     },
     "cool": {
-        "iconClass": "",
         "collections": [
             "cool-games"
         ]
     },
-    "coolmath": {
-        "iconClass": "",
-        "collections": [
-            "coolmath-games"
-        ]
-    },
     "copa": {
-        "iconClass": "",
         "collections": [
             "copa-america"
         ]
     },
     "couple": {
-        "iconClass": "",
         "collections": [
             "couple-games",
             "couple_dress_up_games",
@@ -760,13 +632,11 @@
         ]
     },
     "cowboy": {
-        "iconClass": "",
         "collections": [
             "cowboy-games"
         ]
     },
     "craft": {
-        "iconClass": "",
         "collections": [
             "craft",
             "crafting",
@@ -774,66 +644,56 @@
         ]
     },
     "crash": {
-        "iconClass": "",
         "collections": [
             "crash-games"
         ]
     },
     "crazy": {
-        "iconClass": "",
         "collections": [
             "crazy-games",
             "crazygames"
         ]
     },
     "creation": {
-        "iconClass": "",
         "collections": [
             "design-games",
             "creation-games"
         ]
     },
     "cricket": {
-        "iconClass": "",
         "collections": [
             "cricket"
         ]
     },
     "crime": {
-        "iconClass": "",
         "collections": [
             "crime"
         ]
     },
     "crossword": {
-        "iconClass": "",
         "collections": [
             "crossword",
             "crossword-online"
         ]
     },
     "cube": {
-        "iconClass": "",
         "collections": [
             "cube",
             "cube-games"
         ]
     },
     "cupcake": {
-        "iconClass": "",
         "collections": [
             "cupcake-games"
         ]
     },
     "cut": {
-        "iconClass": "",
         "collections": [
             "cut-the-rope",
             "cut-the-rope-and-friends"
         ]
     },
     "cycling": {
-        "iconClass": "",
         "collections": [
             "cycling",
             "bike",
@@ -841,7 +701,6 @@
         ]
     },
     "dance": {
-        "iconClass": "",
         "collections": [
             "dance",
             "dance-games",
@@ -849,13 +708,11 @@
         ]
     },
     "darts": {
-        "iconClass": "",
         "collections": [
             "darts-games"
         ]
     },
     "dating": {
-        "iconClass": "",
         "collections": [
             "dating",
             "dating-games",
@@ -863,7 +720,6 @@
         ]
     },
     "decorating": {
-        "iconClass": "",
         "collections": [
             "decorating",
             "decorating-games",
@@ -872,53 +728,45 @@
         ]
     },
     "dentist": {
-        "iconClass": "",
         "collections": [
             "dentist",
             "dentist-games"
         ]
     },
     "dice": {
-        "iconClass": "",
         "collections": [
             "dice"
         ]
     },
     "digging": {
-        "iconClass": "",
         "collections": [
             "digging"
         ]
     },
     "dinosaur": {
-        "iconClass": "",
         "collections": [
             "dinosaur",
             "dinosaur-games"
         ]
     },
     "dirt": {
-        "iconClass": "",
         "collections": [
             "dirt-bike",
             "dirt_bike"
         ]
     },
     "doctor": {
-        "iconClass": "",
         "collections": [
             "doctor",
             "doctor-games"
         ]
     },
     "dodgeball": {
-        "iconClass": "",
         "collections": [
             "dodgeball"
         ]
     },
     "dog": {
-        "iconClass": "",
         "collections": [
             "dog",
             "dog-games",
@@ -926,7 +774,6 @@
         ]
     },
     "doll": {
-        "iconClass": "",
         "collections": [
             "doll-games",
             "doll_dress_up_games",
@@ -936,13 +783,11 @@
         ]
     },
     "dollhouse": {
-        "iconClass": "",
         "collections": [
             "doll_house_games"
         ]
     },
     "dolphin": {
-        "iconClass": "",
         "collections": [
             "dolphin",
             "dolphin-games",
@@ -952,34 +797,29 @@
         ]
     },
     "dominoes": {
-        "iconClass": "",
         "collections": [
             "dominoes"
         ]
     },
     "dragon": {
-        "iconClass": "",
         "collections": [
             "dragon",
             "dragon-games"
         ]
     },
     "drawing": {
-        "iconClass": "",
         "collections": [
             "drawing"
         ]
     },
     "dress": {
-        "iconClass": "",
         "collections": [
             "dress-up",
             "dress_up",
-             "theme_dress_up_games"
+            "theme_dress_up_games"
         ]
     },
     "drifting": {
-        "iconClass": "",
         "collections": [
             "drifting",
             "drifting-games",
@@ -988,7 +828,6 @@
         ]
     },
     "driving": {
-        "iconClass": "",
         "collections": [
             "driving",
             "driving-games",
@@ -997,13 +836,11 @@
         ]
     },
     "drum": {
-        "iconClass": "",
         "collections": [
             "drum_games"
         ]
     },
     "duck": {
-        "iconClass": "",
         "collections": [
             "duck",
             "duck-games",
@@ -1011,20 +848,17 @@
         ]
     },
     "dynamons": {
-        "iconClass": "",
         "collections": [
             "dynamons"
         ]
     },
     "easter": {
-        "iconClass": "",
         "collections": [
             "easter",
             "easter_games"
         ]
     },
     "easy": {
-        "iconClass": "",
         "collections": [
             "easy-games",
             "multiplayer-casual",
@@ -1032,62 +866,52 @@
         ]
     },
     "educational": {
-        "iconClass": "",
         "collections": [
             "educational"
         ]
     },
     "elevator": {
-        "iconClass": "",
         "collections": [
             "elevator-games"
         ]
     },
     "emmas": {
-        "iconClass": "",
         "collections": [
             "emmas_recipes"
         ]
     },
     "emoji": {
-        "iconClass": "",
         "collections": [
             "emoji"
         ]
     },
     "empire": {
-        "iconClass": "",
         "collections": [
             "empire"
         ]
     },
     "escaping": {
-        "iconClass": "",
         "collections": [
             "escaping"
         ]
     },
     "european": {
-        "iconClass": "",
         "collections": [
             "european-football-cup"
         ]
     },
     "fairy": {
-        "iconClass": "",
         "collections": [
             "fairy",
             "fairy-games"
         ]
     },
     "fancy": {
-        "iconClass": "",
         "collections": [
             "fancy-pants"
         ]
     },
     "farm": {
-        "iconClass": "",
         "collections": [
             "farming",
             "farming_games",
@@ -1096,13 +920,11 @@
         ]
     },
     "fart": {
-        "iconClass": "",
         "collections": [
             "fart-games"
         ]
     },
     "fashion": {
-        "iconClass": "",
         "collections": [
             "fashion",
             "fashion-games",
@@ -1110,95 +932,80 @@
         ]
     },
     "fathers": {
-        "iconClass": "",
         "collections": [
             "fathers-day"
         ]
     },
     "fidget": {
-        "iconClass": "",
         "collections": [
             "fidget-spinner"
         ]
     },
     "fighting": {
-        "iconClass": "",
         "collections": [
             "fighting",
             "arena-fighting"
         ]
     },
     "fire": {
-        "iconClass": "",
         "collections": [
             "fire-games"
         ]
     },
     "fireboy": {
-        "iconClass": "",
         "collections": [
             "fireboy-and-watergirl"
         ]
     },
     "fish": {
-        "iconClass": "",
         "collections": [
             "fish-games"
         ]
     },
     "fishing": {
-        "iconClass": "",
         "collections": [
             "fishing"
         ]
     },
     "five": {
-        "iconClass": "",
         "collections": [
             "five-nights-at-freddys"
         ]
     },
     "flash": {
-        "iconClass": "",
         "collections": [
             "flash-games",
             "qplay-games"
         ]
     },
     "flight": {
-        "iconClass": "",
         "collections": [
             "flight-games",
             "flight-simulator"
         ]
     },
     "flip": {
-        "iconClass": "",
         "collections": [
             "flip"
         ]
     },
     "flirting": {
-        "iconClass": "",
         "collections": [
             "flirting-games",
             "boyfriend-games"
         ]
     },
     "flower": {
-        "iconClass": "",
         "collections": [
             "flower-games"
         ]
     },
     "fly-car": {
-        "iconClass": "",
         "collections": [
             "fly-car-stunt"
         ]
     },
     "flying": {
-        "iconClass": "",
         "collections": [
             "flying",
             "flying-games",
@@ -1206,7 +1013,6 @@
         ]
     },
     "food": {
-        "iconClass": "",
         "collections": [
             "food",
             "food-games",
@@ -1215,13 +1021,11 @@
         ]
     },
     "foosball": {
-        "iconClass": "",
         "collections": [
             "foosball"
         ]
     },
     "football": {
-        "iconClass": "",
         "collections": [
             "football-soccer",
             "goal-shooting",
@@ -1229,52 +1033,47 @@
         ]
     },
     "footballmanagement": {
-        "iconClass": "",
         "collections": [
             "football-management"
         ]
     },
     "fps": {
-        "iconClass": "",
         "collections": [
             "fps",
             "first-person-shooter",
-            "top-down-shooter"
+            "top-down-shooter",
+            "shooting",
+            "shooting-games",
+            "shoot-em-up"
         ]
     },
     "freecell": {
-        "iconClass": "",
         "collections": [
             "freecell-games",
             "freecell_games"
         ]
     },
     "friv": {
-        "iconClass": "",
         "collections": [
             "friv-games"
         ]
     },
     "frog": {
-        "iconClass": "",
         "collections": [
             "frog-games"
         ]
     },
     "fruit": {
-        "iconClass": "",
         "collections": [
             "fruit-games"
         ]
     },
     "frvr": {
-        "iconClass": "",
         "collections": [
             "frvr"
         ]
     },
     "fun": {
-        "iconClass": "",
         "collections": [
             "fun",
             "fun-games-new",
@@ -1283,47 +1082,41 @@
         ]
     },
     "game": {
-        "iconClass": "",
         "collections": [
             "game-salon"
         ]
     },
     "games": {
-        "iconClass": "",
         "collections": [
             "games",
             "coolmath-games",
             "friv-games",
             "armorgames",
-            "play-games-stay-safe"
+            "play-games-stay-safe",
+            "plinga"
         ]
     },
     "games79832780321780": {
-        "iconClass": "",
         "collections": [
             "games79832780321780"
         ]
     },
     "gangster": {
-        "iconClass": "",
         "collections": [
             "gangster"
         ]
     },
     "garden": {
-        "iconClass": "",
         "collections": [
             "garden-games"
         ]
     },
     "ghost": {
-        "iconClass": "",
         "collections": [
             "ghost-games"
         ]
     },
     "girls": {
-        "iconClass": "",
         "collections": [
             "girls",
             "girls_games",
@@ -1335,26 +1128,22 @@
         ]
     },
     "golf": {
-        "iconClass": "",
         "collections": [
             "golf"
         ]
     },
     "guitar": {
-        "iconClass": "",
         "collections": [
             "guitar-games"
         ]
     },
     "gun": {
-        "iconClass": "",
         "collections": [
             "gun",
             "gun-games"
         ]
     },
     "hair": {
-        "iconClass": "",
         "collections": [
             "hair",
             "hair-games",
@@ -1362,64 +1151,54 @@
         ]
     },
     "halloween": {
-        "iconClass": "",
         "collections": [
             "halloween",
             "halloween_games"
         ]
     },
     "hamster": {
-        "iconClass": "",
         "collections": [
             "hamster-games"
         ]
     },
     "hard": {
-        "iconClass": "",
         "collections": [
             "hard"
         ]
     },
     "helicopter": {
-        "iconClass": "",
         "collections": [
             "helicopter",
             "helicopter-games"
         ]
     },
     "helix": {
-        "iconClass": "",
         "collections": [
             "helix-jump"
         ]
     },
     "highscore": {
-        "iconClass": "",
         "collections": [
             "highscore-games",
             "highscore_games"
         ]
     },
     "hockey": {
-        "iconClass": "",
         "collections": [
             "hockey"
         ]
     },
     "holiday": {
-        "iconClass": "",
         "collections": [
             "holiday-games"
         ]
     },
     "holly": {
-        "iconClass": "",
         "collections": [
             "holly_hobbie"
         ]
     },
     "horse": {
-        "iconClass": "",
         "collections": [
             "horse",
             "horse-games",
@@ -1429,38 +1208,32 @@
         ]
     },
     "hospital": {
-        "iconClass": "",
         "collections": [
             "hospital-games"
         ]
     },
     "hot": {
-        "iconClass": "",
         "collections": [
             "hot-games"
         ]
     },
     "hotel": {
-        "iconClass": "",
         "collections": [
             "hotel-games"
         ]
     },
     "house": {
-        "iconClass": "",
         "collections": [
             "house-games",
             "house_makeover_games"
         ]
     },
     "html5": {
-        "iconClass": "",
         "collections": [
             "html5"
         ]
     },
     "hunting": {
-        "iconClass": "",
         "collections": [
             "hunting",
             "hunting-games",
@@ -1469,42 +1242,46 @@
             "sniper_games"
         ]
     },
-    "icecream": {
-        "iconClass": "",
+    "ice": {
         "collections": [
-            "ice-cream",
-            "ice-cream-games",
             "ice-games"
         ]
     },
+    "icecream": {
+        "collections": [
+            "ice-cream",
+            "ice-cream-games"
+        ]
+    },
     "idea": {
-        "iconClass": "",
         "collections": [
             "idea-studio"
         ]
     },
     "idle": {
-        "iconClass": "",
         "collections": [
             "idle",
             "idle-games"
         ]
     },
+    "invaders": {
+        "collections": [
+            "space-invaders",
+            "space_invaders"
+        ]
+    },
     "io": {
-        "iconClass": "",
         "collections": [
             "io",
             "io-games"
         ]
     },
     "island": {
-        "iconClass": "",
         "collections": [
             "island-games"
         ]
     },
     "jewel": {
-        "iconClass": "",
         "collections": [
             "jewel",
             "jewel-games",
@@ -1512,100 +1289,92 @@
         ]
     },
     "job": {
-        "iconClass": "",
         "collections": [
             "job-games"
         ]
     },
     "jumping": {
-        "iconClass": "",
         "collections": [
-            "jumping"
+            "jumping",
+            "athletics",
+            "endless-running",
+            "running",
+            "running-games",
+            "avoiding",
+            "subway-surfers",
+            "sports",
+            "sports-heads"
         ]
     },
     "karate": {
-        "iconClass": "",
         "collections": [
             "karate",
             "karate-games"
         ]
     },
     "karting": {
-        "iconClass": "",
         "collections": [
             "karting"
         ]
     },
     "kill": {
-        "iconClass": "",
         "collections": [
             "kill-games"
         ]
     },
     "killing": {
-        "iconClass": "",
         "collections": [
             "killing"
         ]
     },
     "kissing": {
-        "iconClass": "",
         "collections": [
             "kissing"
         ]
     },
     "kitchen": {
-        "iconClass": "",
         "collections": [
             "kitchen"
         ]
     },
     "kitten": {
-        "iconClass": "",
         "collections": [
             "kitten-games"
         ]
     },
     "kizi": {
-        "iconClass": "",
         "collections": [
             "kizi"
         ]
     },
     "knight": {
-        "iconClass": "",
         "collections": [
             "knight-games"
         ]
     },
     "kongregate": {
-        "iconClass": "",
         "collections": [
             "kongregate"
         ]
     },
     "lineracing": {
-        "iconClass": "",
         "collections": [
             "line-racing",
             "line_racing"
         ]
     },
     "little": {
-        "iconClass": "",
         "collections": [
             "little-alchemy"
         ]
     },
     "logic": {
-        "iconClass": "",
         "collections": [
             "logic-games",
             "skill"
         ]
     },
     "love": {
-        "iconClass": "",
         "collections": [
             "love",
             "love-games",
@@ -1613,26 +1382,22 @@
         ]
     },
     "mafia": {
-        "iconClass": "",
         "collections": [
             "mafia-games"
         ]
     },
     "magic": {
-        "iconClass": "",
         "collections": [
             "magic-games"
         ]
     },
     "mahjong": {
-        "iconClass": "",
         "collections": [
             "mahjongg",
             "mahjong"
         ]
     },
     "makeover": {
-        "iconClass": "",
         "collections": [
             "make-over",
             "make-up",
@@ -1644,32 +1409,27 @@
         ]
     },
     "management": {
-        "iconClass": "",
         "collections": [
             "management",
             "management_games"
         ]
     },
     "math": {
-        "iconClass": "",
         "collections": [
             "math"
         ]
     },
     "maze": {
-        "iconClass": "",
         "collections": [
             "maze"
         ]
     },
     "medieval": {
-        "iconClass": "",
         "collections": [
             "medieval-games"
         ]
     },
     "memo": {
-        "iconClass": "",
         "collections": [
             "memo",
             "hidden-object",
@@ -1677,59 +1437,51 @@
         ]
     },
     "mermaid": {
-        "iconClass": "",
         "collections": [
             "mermaid-games"
         ]
     },
     "mind": {
-        "iconClass": "",
         "collections": [
             "mind-games"
         ]
     },
     "minesweeper": {
-        "iconClass": "",
         "collections": [
             "minesweeper"
         ]
     },
     "mini": {
-        "iconClass": "",
         "collections": [
             "mini-games"
         ]
     },
     "mining": {
-        "iconClass": "",
         "collections": [
             "mining",
             "mining-games"
         ]
     },
     "mobile": {
-        "iconClass": "",
         "collections": [
             "mobile_games",
-            "mobile__tablet_games"
+            "mobile__tablet_games",
+            "smartphone-games"
         ]
     },
     "money": {
-        "iconClass": "",
         "collections": [
             "money-games",
             "money-movers"
         ]
     },
     "monkey": {
-        "iconClass": "",
         "collections": [
             "monkey-games",
             "monkey-go-happy"
         ]
     },
     "monster": {
-        "iconClass": "",
         "collections": [
             "monster",
             "monster-games",
@@ -1740,13 +1492,11 @@
         ]
     },
     "mothers": {
-        "iconClass": "",
         "collections": [
             "mothers-day-games"
         ]
     },
     "motocross": {
-        "iconClass": "",
         "collections": [
             "motocross",
             "motor-racing",
@@ -1756,13 +1506,11 @@
         ]
     },
     "movie": {
-        "iconClass": "",
         "collections": [
             "movie-games"
         ]
     },
     "multiplayer": {
-        "iconClass": "",
         "collections": [
             "multiplayer",
             "multiplayer-games",
@@ -1770,19 +1518,16 @@
         ]
     },
     "music": {
-        "iconClass": "",
         "collections": [
             "music"
         ]
     },
     "mystery": {
-        "iconClass": "",
         "collections": [
             "mystery-games"
         ]
     },
     "nail": {
-        "iconClass": "",
         "collections": [
             "nail-studio",
             "nail_studio",
@@ -1790,112 +1535,90 @@
         ]
     },
     "new": {
-        "iconClass": "",
         "collections": [
             "new"
         ]
     },
     "newest": {
-        "iconClass": "",
         "collections": [
             "newest"
         ]
     },
     "ninja": {
-        "iconClass": "",
         "collections": [
             "ninja",
             "ninja_games"
         ]
     },
     "nitrome": {
-        "iconClass": "",
         "collections": [
             "nitrome-games"
         ]
     },
     "number": {
-        "iconClass": "",
         "collections": [
             "number-games"
         ]
     },
     "office": {
-        "iconClass": "",
         "collections": [
             "office-games"
         ]
     },
     "offroad": {
-        "iconClass": "",
         "collections": [
             "offroad",
             "uphill-racing",
             "uphill-rush-games",
             "uphill_racing",
             "uphill_rush_games",
-             "4x4"
+            "4x4"
         ]
     },
     "onet": {
-        "iconClass": "",
         "collections": [
             "onet"
         ]
     },
     "open": {
-        "iconClass": "",
         "collections": [
             "open-world-games"
         ]
     },
-    "operate": {
-        "iconClass": "",
-        "collections": [
-            "operate-now-games"
-        ]
-    },
     "paintball": {
-        "iconClass": "",
         "collections": [
             "paintball"
         ]
     },
     "painting": {
-        "iconClass": "",
         "collections": [
             "painting",
             "painting-games"
         ]
     },
     "panda": {
-        "iconClass": "",
         "collections": [
             "panda-games",
             "3-pandas"
         ]
     },
     "parking": {
-        "iconClass": "",
         "collections": [
             "parking"
         ]
     },
     "party": {
-        "iconClass": "",
         "collections": [
             "party-games",
             "party_dress_up_games"
         ]
     },
     "physics": {
-        "iconClass": "",
         "collections": [
             "physics"
         ]
     },
     "piano": {
-        "iconClass": "",
         "collections": [
             "piano",
             "piano-games",
@@ -1903,84 +1626,66 @@
         ]
     },
     "picture": {
-        "iconClass": "",
         "collections": [
             "picture_makeover_games"
         ]
     },
     "pig": {
-        "iconClass": "",
         "collections": [
             "pig-games"
         ]
     },
     "pimp": {
-        "iconClass": "",
         "collections": [
             "pimp-my-ride",
             "pimp_my_ride"
         ]
     },
     "pinball": {
-        "iconClass": "",
         "collections": [
             "pinball"
         ]
     },
     "pirate": {
-        "iconClass": "",
         "collections": [
             "pirate",
             "pirate-games"
         ]
     },
     "pixel": {
-        "iconClass": "",
         "collections": [
             "pixel"
         ]
     },
     "pizza": {
-        "iconClass": "",
         "collections": [
             "pizza",
             "pizza-games"
         ]
     },
     "platform": {
-        "iconClass": "",
         "collections": [
             "platform_games"
         ]
     },
-    "plinga": {
-        "iconClass": "",
-        "collections": [
-            "plinga"
-        ]
-    },
     "poki": {
-        "iconClass": "",
         "collections": [
             "poki"
         ]
     },
     "police": {
-        "iconClass": "",
         "collections": [
             "police",
             "police-games"
         ]
     },
     "pou": {
-        "iconClass": "",
         "collections": [
             "pou-games",
             "pou_games"
         ]
     },
     "premium": {
-        "iconClass": "",
         "collections": [
             "premium",
             "popular",
@@ -1991,7 +1696,6 @@
         ]
     },
     "crown": {
-        "iconClass": "",
         "collections": [
             "princess",
             "princess-juliet",
@@ -2001,14 +1705,12 @@
         ]
     },
     "puppy": {
-        "iconClass": "",
         "collections": [
             "puppy-games",
             "cute-games"
         ]
     },
     "puzzle": {
-        "iconClass": "",
         "collections": [
             "puzzle",
             "puzzles",
@@ -2017,20 +1719,17 @@
         ]
     },
     "quest": {
-        "iconClass": "",
         "collections": [
             "quest-games"
         ]
     },
     "quiz": {
-        "iconClass": "",
         "collections": [
             "quiz",
             "quiz-games"
         ]
     },
     "racing": {
-        "iconClass": "",
         "collections": [
             "racing",
             "city-racing",
@@ -2038,19 +1737,16 @@
         ]
     },
     "rally": {
-        "iconClass": "",
         "collections": [
             "rally"
         ]
     },
     "reading": {
-        "iconClass": "",
         "collections": [
             "reading"
         ]
     },
     "restaurant": {
-        "iconClass": "",
         "collections": [
             "restaurant",
             "restaurant_games",
@@ -2061,39 +1757,33 @@
         ]
     },
     "retro": {
-        "iconClass": "",
         "collections": [
             "retro-games"
         ]
     },
     "rhythm": {
-        "iconClass": "",
         "collections": [
             "rhythm"
         ]
     },
     "robot": {
-        "iconClass": "",
         "collections": [
             "robot",
             "robot-games"
         ]
     },
     "rocket": {
-        "iconClass": "",
         "collections": [
             "rocket-games"
         ]
     },
     "roller": {
-        "iconClass": "",
         "collections": [
             "roller-coaster",
             "thrill-rush"
         ]
     },
     "room": {
-        "iconClass": "",
         "collections": [
             "room-decoration",
             "room_decoration",
@@ -2101,45 +1791,38 @@
         ]
     },
     "roulette": {
-        "iconClass": "",
         "collections": [
             "roulette"
         ]
     },
     "rpg": {
-        "iconClass": "",
         "collections": [
             "rpg"
         ]
     },
     "rugby": {
-        "iconClass": "",
         "collections": [
             "rugby"
         ]
     },
-    "run": {
-        "iconClass": "",
+    "runshoot": {
         "collections": [
             "run--shoot",
             "run__shoot"
         ]
     },
     "salon": {
-        "iconClass": "",
         "collections": [
             "salon",
             "salon-games"
         ]
     },
     "samurai": {
-        "iconClass": "",
         "collections": [
             "samurai-games"
         ]
     },
     "scary": {
-        "iconClass": "",
         "collections": [
             "scary",
             "scary-games",
@@ -2147,7 +1830,6 @@
         ]
     },
     "school": {
-        "iconClass": "",
         "collections": [
             "school-games",
             "back-to-school-games",
@@ -2155,58 +1837,42 @@
         ]
     },
     "science": {
-        "iconClass": "",
         "collections": [
             "science"
         ]
     },
     "scooter": {
-        "iconClass": "",
         "collections": [
             "scooter-games"
         ]
     },
     "seasonal": {
-        "iconClass": "",
         "collections": [
             "seasonal"
         ]
     },
     "shark": {
-        "iconClass": "",
         "collections": [
             "shark"
         ]
     },
     "sheep": {
-        "iconClass": "",
         "collections": [
             "sheep-games"
         ]
     },
     "ship": {
-        "iconClass": "",
         "collections": [
             "ship-games"
         ]
     },
-    "shoot": {
-        "iconClass": "",
+    "shootthrow": {
         "collections": [
             "shoot--throw",
-            "shoot-em-up",
             "shoot__throw"
         ]
     },
-    "shooting": {
-        "iconClass": "",
-        "collections": [
-            "shooting",
-            "shooting-games"
-        ]
-    },
     "shop": {
-        "iconClass": "",
         "collections": [
             "shop-games",
             "shopping-games",
@@ -2215,25 +1881,21 @@
         ]
     },
     "silly": {
-        "iconClass": "",
         "collections": [
             "silly-ways-to-die"
         ]
     },
     "silvergames": {
-        "iconClass": "",
         "collections": [
             "silvergames"
         ]
     },
     "singing": {
-        "iconClass": "",
         "collections": [
             "singing_games"
         ]
     },
     "1player": {
-        "iconClass": "",
         "collections": [
             "singleplayer",
             "role-playing-games",
@@ -2241,39 +1903,28 @@
         ]
     },
     "skateboard": {
-        "iconClass": "",
         "collections": [
             "skateboard"
         ]
     },
     "skateboarding": {
-        "iconClass": "",
         "collections": [
             "skateboarding"
         ]
     },
     "slacking": {
-        "iconClass": "",
         "collections": [
             "slacking",
             "slacking-games"
         ]
     },
     "slot": {
-        "iconClass": "",
         "collections": [
             "slot-machine-games",
             "slot-machines"
         ]
     },
-    "smartphone": {
-        "iconClass": "",
-        "collections": [
-            "smartphone-games"
-        ]
-    },
     "snail": {
-        "iconClass": "",
         "collections": [
             "snail-bob",
             "snail-bob-games",
@@ -2281,38 +1932,32 @@
         ]
     },
     "snake": {
-        "iconClass": "",
         "collections": [
             "snake"
         ]
     },
     "snow": {
-        "iconClass": "",
         "collections": [
             "snow-games",
             "snow_white_games"
         ]
     },
     "snowboard": {
-        "iconClass": "",
         "collections": [
             "snowboard-games"
         ]
     },
     "snowboarding": {
-        "iconClass": "",
         "collections": [
             "snowboarding"
         ]
     },
     "soccer": {
-        "iconClass": "",
         "collections": [
             "soccer"
         ]
     },
     "social": {
-        "iconClass": "",
         "collections": [
             "social-games",
             "social-network",
@@ -2320,31 +1965,26 @@
         ]
     },
     "softgames": {
-        "iconClass": "",
         "collections": [
             "softgames"
         ]
     },
     "soldier": {
-        "iconClass": "",
         "collections": [
             "soldier"
         ]
     },
     "solitaire": {
-        "iconClass": "",
         "collections": [
             "solitaire"
         ]
     },
     "spa": {
-        "iconClass": "",
         "collections": [
             "spa-games"
         ]
     },
     "space": {
-        "iconClass": "",
         "collections": [
             "space",
             "space-games",
@@ -2354,19 +1994,16 @@
         ]
     },
     "spades": {
-        "iconClass": "",
         "collections": [
             "spades-card"
         ]
     },
     "specials": {
-        "iconClass": "",
         "collections": [
             "specials"
         ]
     },
     "spelling": {
-        "iconClass": "",
         "collections": [
             "spelling",
             "word",
@@ -2374,137 +2011,113 @@
         ]
     },
     "spider": {
-        "iconClass": "",
         "collections": [
             "spider-games"
         ]
     },
     "spongebob": {
-        "iconClass": "",
         "collections": [
             "spongebob-squarepants"
         ]
     },
     "sportoutfit": {
-        "iconClass": "",
         "collections": [
             "sports_dress_up_games"
         ]
     },
     "squirrel": {
-        "iconClass": "",
         "collections": [
             "squirrel-games"
         ]
     },
     "stick": {
-        "iconClass": "",
         "collections": [
             "stick-games"
         ]
     },
     "stickman": {
-        "iconClass": "",
         "collections": [
             "stickman",
             "stickman-games"
         ]
     },
     "story": {
-        "iconClass": "",
         "collections": [
             "story"
         ]
     },
     "strikeforce": {
-        "iconClass": "",
         "collections": [
             "strikeforce-kitty"
         ]
     },
     "sudoku": {
-        "iconClass": "",
         "collections": [
             "sudoku"
         ]
     },
     "sue": {
-        "iconClass": "",
         "collections": [
             "sue-games",
             "sue_games"
         ]
     },
     "summer": {
-        "iconClass": "",
         "collections": [
             "summer-games",
             "summer_dress_up_games",
             "summer_games"
         ]
     },
-    "super": {
-        "iconClass": "",
+    "superhero": {
         "collections": [
+            "superhero-games",
             "super-heroes"
         ]
     },
-    "superhero": {
-        "iconClass": "",
-        "collections": [
-            "superhero-games"
-        ]
-    },
     "surfing": {
-        "iconClass": "",
         "collections": [
             "surfing-games"
         ]
     },
     "surgery": {
-        "iconClass": "",
         "collections": [
             "surgery",
             "surgery-games",
-            "surgery_games"
+            "surgery_games",
+            "operate-now-games"
         ]
     },
     "survival": {
-        "iconClass": "",
         "collections": [
             "survival-games"
         ]
     },
     "sushi": {
-        "iconClass": "",
         "collections": [
             "sushi",
             "sushi-games"
         ]
     },
     "tank": {
-        "iconClass": "",
         "collections": [
             "tank",
             "tank-games"
         ]
     },
     "tattoo": {
-        "iconClass": "",
         "collections": [
             "tattoo",
             "tattoo-games"
         ]
     },
     "taxi": {
-        "iconClass": "",
         "collections": [
             "taxi",
             "taxi-games"
         ]
     },
     "tennis": {
-        "iconClass": "",
         "collections": [
             "tennis",
             "table-tennis",
@@ -2512,37 +2125,31 @@
         ]
     },
     "thanksgiving": {
-        "iconClass": "",
         "collections": [
             "thanksgiving-games"
         ]
     },
     "tic": {
-        "iconClass": "",
         "collections": [
             "tic_tac_toe"
         ]
     },
     "time": {
-        "iconClass": "",
         "collections": [
             "time-management"
         ]
     },
     "top100": {
-        "iconClass": "",
         "collections": [
             "top-100"
         ]
     },
     "tournament": {
-        "iconClass": "",
         "collections": [
             "tournament"
         ]
     },
     "tower": {
-        "iconClass": "",
         "collections": [
             "tower-defence",
             "tower-defense",
@@ -2550,39 +2157,33 @@
         ]
     },
     "traffic": {
-        "iconClass": "",
         "collections": [
             "traffic"
         ]
     },
     "train": {
-        "iconClass": "",
         "collections": [
             "train",
             "train-games"
         ]
     },
     "trollface": {
-        "iconClass": "",
         "collections": [
             "trollface-quest-games"
         ]
     },
     "truck": {
-        "iconClass": "",
         "collections": [
             "truck",
             "truck-games"
         ]
     },
     "tycoon": {
-        "iconClass": "",
         "collections": [
             "tycoon-games"
         ]
     },
     "typing": {
-        "iconClass": "",
         "collections": [
             "typing",
             "fast-typing",
@@ -2590,7 +2191,6 @@
         ]
     },
     "unicorn": {
-        "iconClass": "",
         "collections": [
             "unicorn",
             "unicorn-games",
@@ -2600,19 +2200,16 @@
         ]
     },
     "unity": {
-        "iconClass": "",
         "collections": [
             "unity"
         ]
     },
     "upgrade": {
-        "iconClass": "",
         "collections": [
             "upgrade-games"
         ]
     },
     "valentines": {
-        "iconClass": "",
         "collections": [
             "valentines-day",
             "valentines_day",
@@ -2620,38 +2217,32 @@
         ]
     },
     "vampire": {
-        "iconClass": "",
         "collections": [
             "vampire",
             "vampire-games"
         ]
     },
     "vet": {
-        "iconClass": "",
         "collections": [
             "vet-games"
         ]
     },
     "videos": {
-        "iconClass": "",
         "collections": [
             "videos"
         ]
     },
     "volleyball": {
-        "iconClass": "",
         "collections": [
             "volleyball"
         ]
     },
     "voodoo": {
-        "iconClass": "",
         "collections": [
             "voodoo-games"
         ]
     },
     "war": {
-        "iconClass": "",
         "collections": [
             "war",
             "war-games",
@@ -2660,13 +2251,11 @@
         ]
     },
     "warrior": {
-        "iconClass": "",
         "collections": [
             "warrior-games"
         ]
     },
     "water": {
-        "iconClass": "",
         "collections": [
             "water",
             "water-games",
@@ -2676,7 +2265,6 @@
         ]
     },
     "wedding": {
-        "iconClass": "",
         "collections": [
             "wedding",
             "wedding-games",
@@ -2684,19 +2272,16 @@
         ]
     },
     "weird": {
-        "iconClass": "",
         "collections": [
             "weird-games"
         ]
     },
     "what": {
-        "iconClass": "",
         "collections": [
             "what-we-play"
         ]
     },
     "winter": {
-        "iconClass": "",
         "collections": [
             "winter-games",
             "winter-sports",
@@ -2705,13 +2290,11 @@
         ]
     },
     "witch": {
-        "iconClass": "",
         "collections": [
             "witch-games"
         ]
     },
     "world": {
-        "iconClass": "",
         "collections": [
             "world-cup-soccer-games",
             "world_animal_day",
@@ -2719,32 +2302,27 @@
         ]
     },
     "worm": {
-        "iconClass": "",
         "collections": [
             "worm"
         ]
     },
     "wreck": {
-        "iconClass": "",
         "collections": [
             "wreck-the-city",
             "wreck_the_city"
         ]
     },
     "wrestling": {
-        "iconClass": "",
         "collections": [
             "wrestling"
         ]
     },
     "y8": {
-        "iconClass": "",
         "collections": [
             "y8"
         ]
     },
     "zombie": {
-        "iconClass": "",
         "collections": [
             "zombie",
             "zombie-games",
@@ -2752,9 +2330,7 @@
             "zombies"
         ]
     },
-   
     "zoo": {
-        "iconClass": "",
         "collections": [
             "zoo",
             "zoo-games"
