@@ -65,7 +65,8 @@
     "adventure": {
         "collections": [
             "adventure",
-            "exploring"
+            "exploring",
+            "open-world-games"
         ]
     },
     "aim": {
@@ -582,7 +583,8 @@
     "coloredblocks": {
         "collections": [
             "colored_blocks",
-            "coloured-blocks"
+            "coloured-blocks",
+            "onet"
         ]
     },
     "coloring": {
@@ -1044,7 +1046,9 @@
             "top-down-shooter",
             "shooting",
             "shooting-games",
-            "shoot-em-up"
+            "shoot-em-up",
+            "killing",
+            "kill-games"
         ]
     },
     "freecell": {
@@ -1317,16 +1321,6 @@
             "karting"
         ]
     },
-    "kill": {
-        "collections": [
-            "kill-games"
-        ]
-    },
-    "killing": {
-        "collections": [
-            "killing"
-        ]
-    },
     "kissing": {
         "collections": [
             "kissing"
@@ -1573,16 +1567,6 @@
             "uphill_racing",
             "uphill_rush_games",
             "4x4"
-        ]
-    },
-    "onet": {
-        "collections": [
-            "onet"
-        ]
-    },
-    "open": {
-        "collections": [
-            "open-world-games"
         ]
     },
     "paintball": {
