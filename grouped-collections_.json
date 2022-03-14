@@ -1133,7 +1133,8 @@
     },
     "golf": {
         "collections": [
-            "golf"
+            "golf",
+            "mini-games"
         ]
     },
     "guitar": {
@@ -1443,11 +1444,6 @@
     "minesweeper": {
         "collections": [
             "minesweeper"
-        ]
-    },
-    "mini": {
-        "collections": [
-            "mini-games"
         ]
     },
     "mining": {

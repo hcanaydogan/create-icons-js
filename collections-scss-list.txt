@@ -153,7 +153,7 @@
             gangster: (content: unicode(eb03), classes:("gangster")),
             garden: (content: unicode(ea94), classes:("garden-games")),
             girls: (content: unicode(ea95), classes:("girls", "girls_games", "avie-games", "avie-pocket", "egirlgames", "baby-hazel-games", "baby_hazel_games")),
-            golf: (content: unicode(ea96), classes:("golf")),
+            golf: (content: unicode(ea96), classes:("golf", "mini-games")),
             guitar: (content: unicode(ea97), classes:("guitar-games")),
             gun: (content: unicode(ea98), classes:("gun", "gun-games")),
             hair: (content: unicode(ea99), classes:("hair", "hair-games", "hairdresser")),
